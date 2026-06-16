@@ -1,4 +1,4 @@
-Unnamed: 0,Age,EmploymentType,GraduateOrNot,AnnualIncome,FamilyMembers,ChronicDiseases,FrequentFlyer,EverTravelledAbroad,TravelInsurance
+Unnamed0,Age,EmploymentType,GraduateOrNot,AnnualIncome,FamilyMembers,ChronicDiseases,FrequentFlyer,EverTravelledAbroad,TravelInsurance
 888,28,Private Sector/Self Employed,Yes,1250000,6,1,No,No,0
 1308,31,Private Sector/Self Employed,Yes,1250000,7,1,No,No,0
 151,29,Private Sector/Self Employed,Yes,1200000,7,0,No,No,1
