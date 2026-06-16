@@ -1,4 +1,4 @@
-Unnamed: 0,Age,Employment Type,GraduateOrNot,AnnualIncome,FamilyMembers,ChronicDiseases,FrequentFlyer,EverTravelledAbroad
+Unnamed: 0,Age,EmploymentType,GraduateOrNot,AnnualIncome,FamilyMembers,ChronicDiseases,FrequentFlyer,EverTravelledAbroad
 920,32,Government Sector,Yes,650000,5,0,No,No
 777,27,Government Sector,Yes,500000,5,0,No,No
 696,32,Government Sector,Yes,350000,2,0,No,No
