@@ -1,0 +1,1501 @@
+﻿book_id,title,author,publisher,pub_year,rating,available,loan_count
+BK20001,수면의 모든 것,조도현,열린책들,2015,4.1,Y,35
+BK20002,Python for Robotics,Emma Baker,Manning,2017,3.6,Y,42
+BK20003,The Joy of Cooking,Sophia Davis,HarperCollins,2019,4.3,N,9
+BK20004,Learning Python Game Programming,Hannah Hall,Manning,2013,4.1,Y,5
+BK20005,Essential Marketing,Laura Wright,HarperCollins,2024,4.2,Y,63
+BK20006,두 번째 봄,구유진,민음사,2012,3.3,Y,56
+BK20007,Learning Python Algorithms,James Wright,Packt,2014,3.9,N,54
+BK20008,컴퓨터 비전 실무 노트,홍건우,제이펍,2011,4.1,Y,131
+BK20009,앱 개발 완벽 가이드,노하은,이지스퍼블리싱,2022,4.1,Y,37
+BK20010,Python Visualization,Peter Allen,O'Reilly,2014,3.6,N,51
+BK20011,The Music Companion,Grace Baker,Penguin,2015,3.4,Y,13
+BK20012,Marketing Crash Course,Michael Davis,Penguin,2024,3.7,N,72
+BK20013,Python으로 배우는 금융 분석,강승현,인사이트,2017,3.6,Y,31
+BK20014,실전 알고리즘,송서연,이지스퍼블리싱,2023,4.6,Y,30
+BK20015,하루 10분 운동,안연우,창비,2020,3.2,N,32
+BK20016,쉽게 배우는 시계열 분석,차시윤,에이콘출판,2015,4.2,Y,72
+BK20017,데이터베이스 기초와 응용,차준서,에이콘출판,2014,3.3,Y,35
+BK20018,쉽게 배우는 창업,장시우,문학동네,2023,3.5,N,59
+BK20019,건강의 즐거움,진지민,민음사,2016,4.5,Y,28
+BK20020,서른과 걷는 길,곽시우,열린책들,2022,3.5,N,53
+BK20021,그림으로 배우는 창업,남다은,다산북스,2012,3.7,Y,56
+BK20022,Applied Reinforcement Learning,Robert Brown,Apress,2019,4.1,Y,95
+BK20023,데이터베이스 연동 with Python,홍예은,한빛미디어,2022,3.7,N,91
+BK20024,주식 첫걸음,민승현,창비,2010,3.4,N,56
+BK20025,Mastering Game Development,Olivia Young,Packt,2022,2.9,Y,31
+BK20026,실전 통계학,유은우,길벗,2021,4.0,N,33
+BK20027,쉽게 배우는 알고리즘,황예린,영진닷컴,2018,3.7,Y,61
+BK20028,처음 배우는 투자,구가은,다산북스,2019,3.5,Y,34
+BK20029,SQL와 미래,구동현,제이펍,2017,3.4,Y,40
+BK20030,Economics for Beginners,Hannah Walker,Faber & Faber,2021,4.3,Y,39
+BK20031,Advanced Cybersecurity,Peter Hall,Manning,2014,3.3,Y,96
+BK20032,건강 인사이트,문지호,문학동네,2024,3.8,N,94
+BK20033,중국어 교과서,노연우,문학동네,2010,4.2,Y,14
+BK20034,역사 다시 읽기,손예은,창비,2018,4.6,Y,35
+BK20035,생물학과 미래,백지민,김영사,2011,3.3,Y,91
+BK20036,Game Development from Scratch,Grace Scott,O'Reilly,2023,4.5,Y,48
+BK20037,실전 세계사,강나연,민음사,2014,3.4,N,8
+BK20038,노을과 걷는 길,임연우,열린책들,2021,2.9,Y,93
+BK20039,책방 주인의 하루,유은우,웅진지식하우스,2012,3.2,Y,39
+BK20040,자기계발의 즐거움,성세아,웅진지식하우스,2024,5.0,Y,99
+BK20041,Mastering Web Development,Thomas Miller,Packt,2023,5.0,N,41
+BK20042,책방 주인이 말하는 행복,홍지아,열린책들,2020,3.2,Y,35
+BK20043,Hands-On Statistics,Peter Clark,Manning,2019,4.0,Y,43
+BK20044,Essential Artificial Intelligence,Grace Davis,Wiley,2016,3.7,Y,104
+BK20045,모두의 Python 통계,신시우,길벗,2012,4.6,Y,21
+BK20046,쉽게 배우는 재무 관리,류현우,열린책들,2012,4.1,N,54
+BK20047,Jupyter 노트북 활용법,남시윤,길벗,2019,4.3,Y,71
+BK20048,웹 개발 스터디 가이드,서지우,이지스퍼블리싱,2023,4.4,Y,91
+BK20049,육아의 즐거움,민성민,은행나무,2015,3.7,Y,4
+BK20050,약학 트렌드 2024,우지호,다산북스,2022,3.6,Y,34
+BK20051,건강 첫걸음,민성민,민음사,2010,3.6,Y,43
+BK20052,천문학 마스터,안채원,열린책들,2023,4.4,Y,62
+BK20053,어느 회사원의 사계절,하수아,웅진지식하우스,2019,3.3,Y,53
+BK20054,Web Development in Practice,Robert Clark,Wiley,2016,3.5,N,21
+BK20055,Psychology Fundamentals,Julia Smith,Faber & Faber,2020,3.6,Y,21
+BK20056,알고리즘 실무 노트,송지훈,한빛미디어,2020,3.9,Y,58
+BK20057,Introduction to Algorithms,Sophia Hall,Springer,2010,2.9,N,49
+BK20058,미술사 바이블,오유진,웅진지식하우스,2012,4.3,Y,34
+BK20059,Cloud Computing from Scratch,Grace Adams,Apress,2022,4.1,Y,50
+BK20060,캠핑 첫걸음,한유진,문학동네,2011,3.8,Y,54
+BK20061,Big Data Fundamentals,Laura Wright,Manning,2022,3.6,N,63
+BK20062,요가 인사이트,하민준,은행나무,2017,3.9,Y,17
+BK20063,Real-World Game Development,Sarah Clark,Wiley,2015,2.7,Y,43
+BK20064,Modern Data Science,Grace Clark,Wiley,2019,4.0,Y,16
+BK20065,Practical Web Development,Laura Davis,Wiley,2021,4.0,Y,104
+BK20066,실전 간호학,홍지민,창비,2019,4.3,N,85
+BK20067,Economics in Practice,Peter Wilson,HarperCollins,2014,4.3,Y,63
+BK20068,Negotiation Explained,Peter Clark,Bloomsbury,2020,4.5,Y,67
+BK20069,Modern Cloud Computing,Julia Adams,Manning,2022,3.6,Y,34
+BK20070,Machine Learning with Python,Mark Green,Springer,2023,4.4,N,84
+BK20071,은퇴자와 걷는 길,진동현,열린책들,2011,3.9,Y,63
+BK20072,Cooking: A Beginner's Journey,Hannah Allen,Penguin,2022,3.4,Y,27
+BK20073,요리사의 작은 습관,허소율,다산북스,2021,4.1,Y,31
+BK20074,Real-World Data Structures,Laura Smith,O'Reilly,2024,3.7,N,34
+BK20075,오늘부터 베이킹,강수빈,창비,2019,4.0,N,86
+BK20076,실전 철학,신지호,문학동네,2018,4.4,N,25
+BK20077,영화 비평의 정석,이세아,민음사,2013,3.4,Y,113
+BK20078,머신러닝 기초와 응용,장서연,에이콘출판,2023,3.4,Y,19
+BK20079,오늘부터 여행,최우진,창비,2015,3.8,Y,39
+BK20080,세계사 바이블,홍채원,문학동네,2020,4.2,Y,57
+BK20081,산책자와 걷는 길,신하은,창비,2017,5.0,Y,61
+BK20082,Practical Startups,Peter Hall,Vintage,2019,3.9,N,25
+BK20083,쉽게 배우는 네트워크,송승현,한빛미디어,2021,3.1,Y,32
+BK20084,Learning Cybersecurity,Robert Hall,Manning,2017,3.5,Y,34
+BK20085,Effective Python Natural Language Processing,Michael Davis,Manning,2010,3.3,Y,47
+BK20086,직장인을 위한 지구과학,박수빈,김영사,2018,3.5,Y,120
+BK20087,딥러닝 핵심 정리,주지우,에이콘출판,2023,3.6,Y,53
+BK20088,경제학과 미래,민유진,민음사,2010,3.9,Y,116
+BK20089,알고리즘 100문 100답,정정우,위키북스,2015,4.4,N,47
+BK20090,Real-World Ethics,Sophia Smith,Penguin,2022,3.6,Y,55
+BK20091,화학 교과서,백다은,웅진지식하우스,2024,2.9,Y,98
+BK20092,재무 관리 문제 해결 노트,권예린,김영사,2011,2.6,Y,24
+BK20093,정원사가 말하는 행복,박지우,김영사,2016,3.8,Y,11
+BK20094,Reinforcement Learning Explained,Michael Young,Manning,2023,4.0,Y,40
+BK20095,하루 10분 캠핑,서시윤,김영사,2017,4.1,Y,85
+BK20096,The Computer Vision Handbook,Kevin Young,O'Reilly,2019,4.5,N,47
+BK20097,Negotiation for Beginners,Thomas Green,Bloomsbury,2010,3.6,Y,102
+BK20098,Mathematics for Beginners,Hannah Wilson,Bloomsbury,2017,4.0,N,42
+BK20099,인공지능 30일 완성,신유진,제이펍,2017,2.8,Y,30
+BK20100,빅데이터 사례 연구,황성민,에이콘출판,2012,4.5,N,55
+BK20101,강화학습의 정석,허지민,제이펍,2012,3.3,Y,59
+BK20102,The Art of Writing,Grace Johnson,Faber & Faber,2016,4.2,Y,4
+BK20103,시간 관리를 위한 작은 습관,유시우,민음사,2018,4.3,Y,33
+BK20104,그림으로 배우는 자료구조,권지아,에이콘출판,2020,3.7,Y,18
+BK20105,Python Algorithms,Daniel Wright,Packt,2023,4.6,Y,47
+BK20106,한국사 문제 해결 노트,양은우,다산북스,2014,3.4,Y,14
+BK20107,Essential Linear Algebra,Emma Walker,Wiley,2015,3.8,Y,80
+BK20108,Practical DevOps,Emily Allen,Wiley,2018,2.8,Y,17
+BK20109,잠들지 않는 도시,전소율,은행나무,2012,3.8,Y,32
+BK20110,Real-World Mobile Apps,Robert Smith,O'Reilly,2014,4.8,Y,44
+BK20111,생물학 사례 연구,전건우,열린책들,2017,3.4,Y,29
+BK20112,객체지향 프로그래밍을 위한 Python,이유진,길벗,2014,4.4,N,50
+BK20113,Design: A Beginner's Journey,Andrew Anderson,Faber & Faber,2016,3.6,Y,47
+BK20114,이미지 처리 with Python,전태양,영진닷컴,2018,3.7,N,15
+BK20115,Health Explained,Hannah Wilson,Penguin,2016,3.6,Y,88
+BK20116,오늘부터 캠핑,곽채원,문학동네,2019,4.2,Y,53
+BK20117,추천 시스템 사례 연구,박도현,영진닷컴,2024,3.8,Y,76
+BK20118,미술사 교과서,강시윤,열린책들,2017,4.7,N,105
+BK20119,Mastering Data Structures,Michael Hall,Wiley,2022,3.8,Y,23
+BK20120,시계열 분석 트렌드 2024,홍유진,에이콘출판,2014,3.1,Y,36
+BK20121,노을의 하루,오승현,창비,2023,4.0,N,101
+BK20122,시골 의사에게 보내는 편지,구지민,창비,2023,3.5,Y,21
+BK20123,독서법 사례 연구,최우진,창비,2011,4.6,Y,32
+BK20124,처음 시작하는 요가,차서연,웅진지식하우스,2016,4.4,Y,119
+BK20125,Project Management from Scratch,Robert Smith,HarperCollins,2015,3.1,N,19
+BK20126,Effective Python Data Engineering,Hannah Smith,Apress,2016,3.5,Y,84
+BK20127,Advanced Physics,Thomas Wright,Bloomsbury,2023,5.0,Y,44
+BK20128,경영 전략을 위한 워크북,황현우,창비,2019,4.1,Y,9
+BK20129,Mastering Negotiation,Sarah Taylor,Faber & Faber,2012,3.4,Y,116
+BK20130,추천 시스템 100문 100답,윤연우,인사이트,2011,5.0,Y,69
+BK20131,컴퓨터 비전 특강,이우진,인사이트,2021,4.7,Y,41
+BK20132,심리학 로드맵,안은우,열린책들,2011,5.0,Y,59
+BK20133,음악 이론 바이블,하지호,김영사,2013,3.9,N,22
+BK20134,처음 시작하는 와인,류우진,은행나무,2015,3.9,Y,168
+BK20135,나의 와인 일기,권다은,김영사,2024,4.7,Y,69
+BK20136,습관의 기술,유시우,웅진지식하우스,2012,3.4,N,35
+BK20137,실전 딥러닝,임우진,인사이트,2021,4.4,Y,36
+BK20138,처음 배우는 생물학,전우진,문학동네,2020,3.8,Y,30
+BK20139,자기계발이 삶을 바꾼다,안시우,문학동네,2015,2.8,N,21
+BK20140,Machine Learning: A Practical Guide,Anna Allen,Manning,2017,3.7,Y,80
+BK20141,"엄마, 그 후",곽우진,웅진지식하우스,2016,4.1,Y,50
+BK20142,A Short History of Cooking,Sophia Brown,HarperCollins,2016,3.9,Y,45
+BK20143,그림으로 배우는 부동산,임성민,문학동네,2012,4.3,Y,7
+BK20144,습관이 삶을 바꾼다,양수아,민음사,2010,3.9,Y,53
+BK20145,Computer Vision Patterns,Andrew Baker,Apress,2014,3.7,Y,35
+BK20146,Mastering Algorithms,Anna Scott,O'Reilly,2016,3.8,Y,46
+BK20147,처음 배우는 데이터 분석,하승현,인사이트,2012,4.2,N,80
+BK20148,정원 가꾸기 인사이트,이연우,웅진지식하우스,2023,4.8,Y,101
+BK20149,정원 가꾸기의 기술,고건우,김영사,2023,4.6,Y,34
+BK20150,Advanced Negotiation,Emily Scott,Penguin,2011,4.1,N,34
+BK20151,Photography: A Beginner's Journey,James Wright,Penguin,2015,4.3,Y,37
+BK20152,한국사 100문 100답,심서연,다산북스,2010,4.0,Y,84
+BK20153,생각하는 딥러닝,하유진,한빛미디어,2014,3.6,N,29
+BK20154,은퇴자의 사계절,안지민,창비,2012,4.3,Y,72
+BK20155,Practical Natural Language Processing,Kevin Anderson,Springer,2016,4.3,Y,19
+BK20156,베이킹의 즐거움,윤하은,민음사,2020,4.6,Y,67
+BK20157,쉽게 배우는 여행,양소율,문학동네,2022,2.9,Y,52
+BK20158,Ethics Patterns,Michael Allen,Penguin,2015,4.3,N,42
+BK20159,처음 시작하는 정원 가꾸기,유시윤,김영사,2022,3.8,N,61
+BK20160,Mathematics Step by Step,Olivia Wilson,Faber & Faber,2010,3.2,N,14
+BK20161,Python Testing Workbook,Daniel Wright,Wiley,2021,4.0,Y,23
+BK20162,Python으로 배우는 텍스트 마이닝,진다은,제이펍,2021,3.8,Y,19
+BK20163,Python Scientific Computing,Sarah Walker,Packt,2023,4.4,Y,91
+BK20164,간호학 마스터,차민준,웅진지식하우스,2017,3.9,N,146
+BK20165,스페인어 사례 연구,장시윤,김영사,2017,4.5,Y,19
+BK20166,수학 사례 연구,백시윤,은행나무,2015,3.8,Y,44
+BK20167,누구나 할 수 있는 반려동물,배지아,은행나무,2023,4.7,Y,48
+BK20168,누구나 할 수 있는 요가,성시윤,민음사,2013,2.7,Y,35
+BK20169,Python과 업무 자동화,차민준,위키북스,2013,3.8,Y,12
+BK20170,한 권으로 끝내는 약학,김태양,웅진지식하우스,2021,3.9,Y,40
+BK20171,자연어 처리 30일 완성,손재원,위키북스,2020,3.0,Y,36
+BK20172,Computer Vision for Beginners,Julia Wright,Apress,2023,3.1,Y,21
+BK20173,Product Management Step by Step,James Wilson,Bloomsbury,2020,4.2,N,124
+BK20174,데이터 분석 바이블,주가은,이지스퍼블리싱,2020,4.2,Y,48
+BK20175,Mastering Biology,James Adams,Penguin,2022,3.8,Y,52
+BK20176,Essential Game Development,James Wright,Wiley,2016,4.0,Y,22
+BK20177,Image Processing in Python,Emma Adams,Packt,2022,4.4,Y,25
+BK20178,독서법을 위한 워크북,안현우,웅진지식하우스,2012,4.5,Y,27
+BK20179,Mastering Startups,Mark Miller,Penguin,2010,4.2,Y,28
+BK20180,마케팅 트렌드 2024,조서연,민음사,2016,4.0,Y,41
+BK20181,Py-Script 실전 활용,조지아,인사이트,2015,3.7,Y,110
+BK20182,Python GUI 프로그래밍 입문,강수빈,인사이트,2020,3.7,Y,17
+BK20183,Python 기반 딥러닝 실습,문다은,인사이트,2022,4.5,N,36
+BK20184,Advanced Data Science,Peter Smith,Manning,2020,4.4,Y,56
+BK20185,회계 바이블,강연우,열린책들,2024,3.2,N,49
+BK20186,실전 글쓰기,고예은,창비,2020,3.4,Y,38
+BK20187,Introduction to Data Visualization,Emma Walker,Wiley,2024,4.1,Y,30
+BK20188,운동의 기술,백지훈,다산북스,2013,4.3,N,74
+BK20189,Marketing: A Practical Guide,James Johnson,Faber & Faber,2022,3.0,N,25
+BK20190,Python Security Workbook,Michael Johnson,Manning,2022,4.1,Y,38
+BK20191,간호학을 위한 워크북,배시우,민음사,2014,3.1,N,44
+BK20192,The Art of Music,James Baker,Penguin,2024,4.0,N,38
+BK20193,한 권으로 끝내는 추천 시스템,배재원,이지스퍼블리싱,2018,3.3,Y,100
+BK20194,쉽게 배우는 마케팅,최세아,은행나무,2024,3.7,N,28
+BK20195,심리학 마스터,허서준,문학동네,2022,3.7,N,12
+BK20196,창업 스터디 가이드,양지호,문학동네,2012,4.1,Y,99
+BK20197,Python 웹 크롤링 입문,문준서,에이콘출판,2020,3.1,Y,15
+BK20198,수학 스터디 가이드,권현우,열린책들,2020,4.2,Y,34
+BK20199,데이터 분석 트렌드 2024,고지훈,인사이트,2020,4.2,Y,50
+BK20200,추천 시스템 첫걸음,문세아,이지스퍼블리싱,2015,3.7,N,52
+BK20201,Everyday Cooking,Daniel Wilson,Bloomsbury,2024,3.9,Y,48
+BK20202,일곱 번째 계절,신수아,민음사,2010,2.9,N,17
+BK20203,화학 입문,최유진,다산북스,2024,3.9,Y,58
+BK20204,빅데이터 교과서,남유진,이지스퍼블리싱,2016,3.9,N,31
+BK20205,다이어트 완벽 가이드,서현우,열린책들,2023,3.3,Y,14
+BK20206,화가의 작은 습관,이하은,문학동네,2021,3.7,Y,30
+BK20207,요리를 위한 작은 습관,곽나연,김영사,2024,4.8,Y,26
+BK20208,인공지능 첫걸음,윤예은,이지스퍼블리싱,2021,4.2,N,70
+BK20209,Economics Crash Course,Michael Scott,Penguin,2014,4.0,Y,42
+BK20210,직장인을 위한 자료구조,장태양,인사이트,2014,3.7,Y,29
+BK20211,"서른, 그 후",허준서,민음사,2012,3.6,Y,72
+BK20212,세계사 특강,송동현,민음사,2021,3.9,Y,85
+BK20213,머신러닝을 위한 Python,서세아,에이콘출판,2021,4.5,Y,66
+BK20214,음악 이론 교과서,윤도현,창비,2016,3.7,Y,2
+BK20215,Python Machine Learning,Sarah Wright,Apress,2022,4.3,Y,78
+BK20216,늦깎이 학생의 사계절,성하은,웅진지식하우스,2018,3.6,Y,115
+BK20217,실전 Python 웹 크롤링,구도현,이지스퍼블리싱,2024,3.5,Y,37
+BK20218,Python으로 배우는 데이터 분석,정준서,위키북스,2016,3.9,N,13
+BK20219,등산 인사이트,안채원,웅진지식하우스,2022,3.7,N,18
+BK20220,Learning Marketing,Thomas Green,HarperCollins,2019,4.8,N,66
+BK20221,엄마의 사계절,문유진,창비,2017,3.9,Y,46
+BK20222,캠핑이 삶을 바꾼다,성연우,다산북스,2015,3.6,Y,25
+BK20223,추천 시스템 실무 노트,곽수빈,에이콘출판,2017,3.3,Y,95
+BK20224,Thinking in Data Visualization,Anna Adams,Wiley,2012,4.3,Y,28
+BK20225,겨울 나그네,박재원,민음사,2016,4.1,Y,64
+BK20226,통계 with Python,오채원,에이콘출판,2023,3.2,N,64
+BK20227,Applied Ethics,Andrew Miller,Bloomsbury,2014,3.9,Y,58
+BK20228,엄마와 걷는 길,배우진,창비,2015,3.2,Y,77
+BK20229,심리학 교과서,차우진,창비,2015,2.7,Y,7
+BK20230,네트워크 마스터,황성민,제이펍,2022,4.1,Y,46
+BK20231,Python Finance Cookbook,Emma Taylor,Wiley,2021,4.2,Y,61
+BK20232,어느 회사원의 작은 습관,배예은,웅진지식하우스,2012,4.0,Y,44
+BK20233,요리사와 걷는 길,배예은,다산북스,2019,4.0,Y,57
+BK20234,자연어 처리 바이블,민세아,길벗,2023,3.2,Y,55
+BK20235,Writing: A Beginner's Journey,David Hall,Faber & Faber,2022,3.4,N,18
+BK20236,경제학 100문 100답,조시우,창비,2023,3.6,N,85
+BK20237,파이썬 업무 자동화 입문,양예린,에이콘출판,2022,4.8,Y,25
+BK20238,Python 게임 프로그래밍 입문,송지훈,이지스퍼블리싱,2017,4.1,Y,39
+BK20239,요리사가 말하는 행복,민태양,열린책들,2016,4.9,Y,10
+BK20240,한 권으로 끝내는 빅데이터,손수아,길벗,2024,4.2,Y,97
+BK20241,누구나 할 수 있는 베이킹,유우진,다산북스,2020,4.1,Y,22
+BK20242,Effective Python Web Scraping,Emma Wright,Springer,2012,3.9,Y,62
+BK20243,Applied Time Series,Thomas Walker,Apress,2024,3.6,N,45
+BK20244,Practical Economics,Andrew Moore,Faber & Faber,2011,3.2,Y,70
+BK20245,Thinking in Time Series,Olivia Baker,Springer,2011,3.8,N,33
+BK20246,Data Visualization Fundamentals,Anna Adams,O'Reilly,2019,3.9,Y,74
+BK20247,수면이 삶을 바꾼다,오승현,창비,2016,3.7,Y,82
+BK20248,처음 시작하는 반려동물,남서준,문학동네,2018,4.3,Y,75
+BK20249,Algorithms for Beginners,Robert Adams,Springer,2021,4.1,Y,58
+BK20250,Health Made Simple,Grace Johnson,Faber & Faber,2023,3.4,Y,19
+BK20251,Real-World Algorithms,Grace King,Apress,2020,4.1,Y,87
+BK20252,컴퓨터 비전의 정석,김채원,한빛미디어,2018,3.3,Y,94
+BK20253,그림으로 배우는 천문학,오서연,창비,2016,4.6,Y,18
+BK20254,서른에게 보내는 편지,정건우,은행나무,2019,4.6,Y,87
+BK20255,Essential Big Data,Emma Brown,Manning,2022,3.8,Y,10
+BK20256,SQL 스터디 가이드,우세아,제이펍,2023,3.9,N,39
+BK20257,쉽게 배우는 명상,박정우,은행나무,2021,4.2,N,7
+BK20258,Mathematics Explained,Michael Moore,Vintage,2010,3.4,Y,25
+BK20259,유리로 만든 마을,한다은,웅진지식하우스,2013,4.3,N,79
+BK20260,인공지능 마스터,강지민,인사이트,2010,3.3,Y,63
+BK20261,지구과학 핵심 정리,배소율,다산북스,2012,4.3,Y,57
+BK20262,등산을 위한 작은 습관,최우진,열린책들,2024,3.9,N,46
+BK20263,습관 첫걸음,전우진,은행나무,2018,4.0,N,5
+BK20264,Introduction to Big Data,Laura Wilson,Wiley,2023,3.9,N,58
+BK20265,앱 개발의 정석,서재원,제이펍,2011,4.4,Y,16
+BK20266,Python 딥러닝 완벽 가이드,박지호,제이펍,2016,3.2,Y,17
+BK20267,앱 개발 100문 100답,서은우,길벗,2024,3.5,N,15
+BK20268,명상이 삶을 바꾼다,허수아,열린책들,2018,3.8,N,25
+BK20269,Python Data Analysis Cookbook,Emma Wilson,Springer,2022,4.3,Y,23
+BK20270,한 권으로 끝내는 자료구조,손다은,에이콘출판,2014,4.2,N,19
+BK20271,Music Made Simple,Michael Clark,Vintage,2019,2.8,Y,66
+BK20272,재무 관리 핵심 정리,주다은,김영사,2010,3.9,Y,20
+BK20273,영화 비평 30일 완성,최하린,민음사,2014,3.7,Y,47
+BK20274,Thinking in Psychology,Sarah Allen,Faber & Faber,2020,4.8,Y,39
+BK20275,추천 시스템 바이블,유건우,한빛미디어,2014,3.3,Y,21
+BK20276,"정원사, 그 후",조시윤,민음사,2019,3.0,Y,23
+BK20277,Startups: A Practical Guide,Kevin Hall,Vintage,2023,3.7,Y,30
+BK20278,부동산 스터디 가이드,전하린,웅진지식하우스,2022,4.5,Y,53
+BK20279,누구나 할 수 있는 운동,우서연,문학동네,2020,4.9,Y,37
+BK20280,Essential UX Research,Hannah King,Vintage,2012,3.7,Y,49
+BK20281,경제학 문제 해결 노트,우다은,민음사,2013,4.5,N,16
+BK20282,A Short History of Travel,Julia Taylor,Vintage,2024,4.6,Y,27
+BK20283,수학 실무 노트,송동현,웅진지식하우스,2022,2.7,Y,48
+BK20284,Linear Algebra Patterns,Emily Wilson,Apress,2024,4.0,N,29
+BK20285,Startups Fundamentals,Emma Clark,Vintage,2022,3.6,Y,97
+BK20286,선형대수 핵심 정리,안세아,제이펍,2024,5.0,N,125
+BK20287,건강 이야기,조준서,열린책들,2012,3.7,Y,14
+BK20288,Deep Learning Cookbook,James Young,O'Reilly,2021,3.9,Y,66
+BK20289,A Short History of Design,Andrew Young,HarperCollins,2014,4.5,Y,12
+BK20290,심리학 입문,곽준서,다산북스,2024,4.3,Y,60
+BK20291,"책방 주인, 그 후",민연우,웅진지식하우스,2017,3.9,Y,25
+BK20292,The Art of Health,Mark Wright,Faber & Faber,2024,3.5,Y,27
+BK20293,회계의 정석,문예은,은행나무,2010,3.5,Y,29
+BK20294,경영 전략의 정석,성가은,열린책들,2010,4.0,Y,7
+BK20295,엄마에게 보내는 편지,송하린,열린책들,2023,4.5,Y,24
+BK20296,Data Visualization Explained,Robert Allen,Wiley,2021,3.5,Y,29
+BK20297,육아 인사이트,하건우,김영사,2024,3.3,Y,26
+BK20298,Learning Algorithms,David Miller,Apress,2018,4.7,Y,18
+BK20299,Hands-On Project Management,Kevin Davis,HarperCollins,2022,3.5,Y,30
+BK20300,회계 핸드북,임우진,열린책들,2023,4.0,Y,39
+BK20301,오늘부터 식단,민지아,열린책들,2015,4.0,Y,80
+BK20302,Automation with Python,Laura Anderson,Packt,2011,3.0,Y,7
+BK20303,Machine Learning Step by Step,Emma Moore,Apress,2024,4.5,Y,31
+BK20304,Project Management: A Practical Guide,Laura Adams,Bloomsbury,2023,3.7,Y,50
+BK20305,Astronomy in Practice,Laura King,Bloomsbury,2023,3.4,Y,42
+BK20306,Artificial Intelligence for Beginners,Thomas Taylor,Apress,2017,3.8,Y,17
+BK20307,Thinking in Blockchain,Grace Moore,Wiley,2013,3.7,Y,59
+BK20308,Practical Cloud Computing,Mark Walker,Springer,2014,3.8,Y,52
+BK20309,경영 전략 사례 연구,백시윤,은행나무,2010,4.3,N,55
+BK20310,Essential Finance,Emma Miller,Bloomsbury,2022,4.0,Y,71
+BK20311,생각하는 데이터 분석,고수빈,에이콘출판,2020,3.9,Y,177
+BK20312,Computer Vision in Practice,Hannah Green,O'Reilly,2018,3.6,N,25
+BK20313,누구나 할 수 있는 육아,류은우,문학동네,2019,4.1,Y,25
+BK20314,Ethics Fundamentals,Peter Davis,Bloomsbury,2012,4.2,N,23
+BK20315,도시인에게 보내는 편지,정지훈,문학동네,2019,3.4,Y,15
+BK20316,UX Research for Beginners,Peter Wilson,HarperCollins,2012,4.3,N,44
+BK20317,Algorithms in Practice,Hannah Johnson,O'Reilly,2020,4.8,Y,58
+BK20318,딥러닝 로드맵,임동현,위키북스,2020,3.9,Y,89
+BK20319,역사를 위한 워크북,강민준,김영사,2017,3.9,Y,162
+BK20320,수면 인사이트,한소율,웅진지식하우스,2023,3.3,Y,38
+BK20321,글쓰기 완벽 가이드,강민준,김영사,2015,3.6,Y,31
+BK20322,통계학 첫걸음,백연우,인사이트,2023,3.3,Y,29
+BK20323,The UX Research Handbook,Grace Baker,Faber & Faber,2021,4.1,N,60
+BK20324,Practical Machine Learning,Hannah Moore,Apress,2021,4.4,Y,33
+BK20325,어느 회사원이 말하는 행복,진채원,은행나무,2020,4.5,Y,69
+BK20326,Beneath the Orchard,David Smith,Vintage,2024,4.3,Y,59
+BK20327,Notes on Health,Thomas Johnson,HarperCollins,2021,5.0,Y,71
+BK20328,Practical Leadership,Daniel Anderson,HarperCollins,2020,3.8,Y,30
+BK20329,클라우드 컴퓨팅 기초와 응용,노하린,이지스퍼블리싱,2012,4.1,Y,110
+BK20330,영어 회화 핸드북,양지호,김영사,2012,3.9,Y,75
+BK20331,재무 관리 특강,장지아,열린책들,2015,4.2,Y,23
+BK20332,Statistics Patterns,Kevin Adams,Manning,2019,3.6,N,94
+BK20333,서른의 사계절,김예은,문학동네,2018,3.2,Y,34
+BK20334,Python 금융 분석 완벽 가이드,노하린,길벗,2022,3.7,Y,14
+BK20335,Python Machine Learning Workbook,Emily Adams,O'Reilly,2021,3.8,Y,12
+BK20336,간호학 완벽 가이드,최유진,민음사,2019,4.0,Y,33
+BK20337,Blockchain Patterns,Emily Walker,Springer,2019,3.9,Y,24
+BK20338,명상의 모든 것,윤태양,다산북스,2013,4.3,Y,18
+BK20339,화가에게 보내는 편지,백승현,다산북스,2018,4.4,N,56
+BK20340,운동 인사이트,최채원,창비,2013,3.8,Y,51
+BK20341,SQL 입문,신하린,이지스퍼블리싱,2011,3.5,N,64
+BK20342,영화 비평 다시 읽기,노도현,창비,2023,4.0,Y,77
+BK20343,Practical Time Series,Julia Miller,Wiley,2016,3.6,Y,42
+BK20344,Advanced Startups,Julia Anderson,HarperCollins,2022,3.4,Y,44
+BK20345,Data Visualization Crash Course,Emily Miller,Springer,2012,3.6,N,48
+BK20346,역사 사례 연구,홍정우,민음사,2024,3.9,N,81
+BK20347,화가가 사랑한 문장들,남민준,문학동네,2018,4.3,Y,13
+BK20348,음악 이론 다시 읽기,류수빈,민음사,2019,4.3,Y,43
+BK20349,DevOps Cookbook,Daniel Brown,Packt,2019,3.4,Y,70
+BK20350,Learning Psychology,Mark King,Bloomsbury,2018,4.7,Y,27
+BK20351,경영 전략 기초와 응용,류도현,은행나무,2023,3.5,Y,28
+BK20352,자연어 처리 첫걸음,민은우,인사이트,2016,4.4,Y,90
+BK20353,화학 30일 완성,차시우,민음사,2011,3.2,N,32
+BK20354,python 업무 자동화 핸즈온,한재원,한빛미디어,2013,4.3,N,111
+BK20355,Big Data from Scratch,Andrew Smith,Apress,2021,3.5,Y,42
+BK20356,Blockchain in Practice,Robert Baker,Springer,2012,3.4,Y,58
+BK20357,운동의 즐거움,구정우,열린책들,2024,3.9,Y,84
+BK20358,중국어 문제 해결 노트,최수아,김영사,2014,3.7,N,79
+BK20359,데이터 분석 마스터,우정우,위키북스,2021,3.8,Y,65
+BK20360,생각하는 데이터베이스,배지민,이지스퍼블리싱,2010,4.2,Y,35
+BK20361,실전 의학,남수빈,웅진지식하우스,2015,4.3,Y,37
+BK20362,쉽게 배우는 요리,임연우,열린책들,2021,3.5,Y,62
+BK20363,경영 전략 완벽 가이드,배민준,민음사,2024,4.2,Y,61
+BK20364,오늘부터 요가,송다은,김영사,2017,3.2,Y,58
+BK20365,시계열 분석 첫걸음,송채원,영진닷컴,2016,3.0,Y,40
+BK20366,Advanced Time Series,Laura Brown,O'Reilly,2023,4.0,Y,39
+BK20367,쉽게 배우는 캠핑,구서연,김영사,2015,4.6,N,11
+BK20368,우리가 몰랐던 이름,남가은,문학동네,2014,4.0,N,41
+BK20369,A Short History of Architecture,Mark Davis,Bloomsbury,2021,3.8,Y,30
+BK20370,The Project Management Handbook,Olivia Clark,Penguin,2022,3.1,N,105
+BK20371,Learning Computer Vision,Thomas Baker,Manning,2010,4.0,Y,73
+BK20372,Photography for Everyone,Julia Davis,HarperCollins,2016,4.2,N,68
+BK20373,Game Development Step by Step,Peter Baker,Springer,2023,3.9,N,55
+BK20374,강화학습 바이블,손재원,길벗,2023,4.1,Y,49
+BK20375,Notes on Philosophy,Andrew Taylor,Faber & Faber,2023,3.9,Y,41
+BK20376,주식 100문 100답,심서연,웅진지식하우스,2019,3.2,Y,37
+BK20377,약학 바이블,배수빈,은행나무,2024,3.9,Y,29
+BK20378,스페인어 100문 100답,김승현,다산북스,2010,3.5,Y,36
+BK20379,Learning Data Science,Sophia Clark,Packt,2019,3.6,Y,7
+BK20380,파이썬 금융 분석 입문,민서연,길벗,2017,4.8,Y,81
+BK20381,의학 입문,서시윤,민음사,2022,3.3,Y,41
+BK20382,마케팅 다시 읽기,신정우,민음사,2021,4.5,Y,62
+BK20383,확률론의 정석,유유진,위키북스,2018,3.6,Y,36
+BK20384,Python 알고리즘,차지훈,길벗,2013,4.1,N,39
+BK20385,The Gardener's Almanac,Laura Young,Faber & Faber,2016,4.1,Y,10
+BK20386,바다와 걷는 길,송서준,창비,2012,3.7,Y,123
+BK20387,The History Companion,Laura Davis,HarperCollins,2015,3.9,Y,53
+BK20388,은퇴자에게 보내는 편지,윤지우,열린책들,2020,3.2,N,9
+BK20389,경영 전략 문제 해결 노트,안지아,창비,2019,3.7,Y,19
+BK20390,정원사와 걷는 길,서재원,문학동네,2013,4.0,N,74
+BK20391,생각하는 경영 전략,강시윤,김영사,2016,4.1,N,46
+BK20392,건강 입문,신도현,열린책들,2016,4.0,N,62
+BK20393,The Health Companion,Sarah Smith,HarperCollins,2018,4.4,Y,58
+BK20394,혼자 공부하는 Python 시각화,정다은,제이펍,2016,3.7,Y,18
+BK20395,Mobile Apps Crash Course,Olivia Walker,Manning,2013,4.5,Y,29
+BK20396,자연어 처리 with Python,유동현,한빛미디어,2019,4.3,Y,31
+BK20397,회계 입문,황우진,창비,2024,4.8,Y,27
+BK20398,간호학 입문,송민준,문학동네,2011,3.8,Y,71
+BK20399,Philosophy Made Simple,Robert Anderson,HarperCollins,2013,4.1,Y,29
+BK20400,나의 등산 일기,전서준,김영사,2017,3.9,Y,86
+BK20401,바다가 사랑한 문장들,전세아,김영사,2014,3.8,Y,25
+BK20402,의학 완벽 가이드,양민준,창비,2011,4.2,N,33
+BK20403,Photography for Beginners,Sarah Green,Penguin,2021,4.2,Y,17
+BK20404,SQL 사례 연구,노나연,위키북스,2021,4.1,Y,54
+BK20405,Thinking in Economics,Kevin Walker,Penguin,2012,4.3,Y,89
+BK20406,Thinking in Astronomy,Laura Green,Faber & Faber,2023,5.0,Y,28
+BK20407,Applied Data Science,Andrew Walker,Packt,2022,3.8,Y,39
+BK20408,은퇴자의 작은 습관,곽재원,열린책들,2019,4.7,Y,112
+BK20409,한국사 실무 노트,남지호,민음사,2015,4.1,Y,33
+BK20410,SQL 30일 완성,오예은,제이펍,2014,3.4,Y,45
+BK20411,Python 기반 객체지향 프로그래밍 실습,권시우,한빛미디어,2012,4.3,Y,21
+BK20412,그림으로 배우는 명상,안하은,창비,2015,4.8,N,17
+BK20413,지구과학 100문 100답,차나연,김영사,2020,3.2,Y,99
+BK20414,인공지능 특강,백지훈,인사이트,2020,3.5,Y,36
+BK20415,쉽게 배우는 빅데이터,한세아,인사이트,2022,3.5,N,25
+BK20416,중국어 입문,김예은,김영사,2017,3.9,N,69
+BK20417,철학 첫걸음,유현우,창비,2018,4.2,Y,69
+BK20418,심리학 핸드북,정시윤,열린책들,2013,4.2,Y,45
+BK20419,History Explained,Michael Wilson,Penguin,2011,2.6,N,87
+BK20420,한 권으로 끝내는 글쓰기,전성민,열린책들,2013,4.6,Y,39
+BK20421,영화 비평 특강,양건우,열린책들,2024,4.1,Y,18
+BK20422,캠핑을 위한 작은 습관,양준서,창비,2011,3.9,Y,22
+BK20423,영화 비평 100문 100답,최채원,은행나무,2013,4.4,N,146
+BK20424,Time Series in Practice,Mark Wright,Wiley,2014,3.4,Y,31
+BK20425,Introduction to Physics,Sophia Allen,Penguin,2017,3.9,Y,30
+BK20426,실전 건축,노정우,창비,2016,3.2,Y,64
+BK20427,Introduction to Design,Daniel Smith,Faber & Faber,2024,4.2,Y,30
+BK20428,Web Development Patterns,Laura Scott,Wiley,2016,3.4,Y,33
+BK20429,정원사의 하루,노성민,창비,2020,4.1,Y,28
+BK20430,GUI 프로그래밍을 위한 파이썬,홍성민,인사이트,2019,5.0,Y,59
+BK20431,약학 핸드북,최지훈,김영사,2023,4.2,Y,38
+BK20432,물리학 바이블,전유진,웅진지식하우스,2022,4.2,Y,58
+BK20433,Cybersecurity for Beginners,James Wright,Wiley,2020,3.9,Y,14
+BK20434,python 게임 프로그래밍 워크북,임시우,이지스퍼블리싱,2013,4.6,Y,114
+BK20435,소금 호수,신도현,웅진지식하우스,2020,3.4,Y,78
+BK20436,The Joy of Music,Emma Anderson,Bloomsbury,2022,4.1,Y,78
+BK20437,UX Research Patterns,Kevin Scott,Penguin,2011,3.8,N,29
+BK20438,여행자의 작은 습관,양예은,다산북스,2013,4.0,Y,24
+BK20439,다이어트 입문,오수아,다산북스,2011,3.5,Y,38
+BK20440,재무 관리 사례 연구,최채원,다산북스,2024,3.4,Y,61
+BK20441,Computer Vision Fundamentals,Sophia Scott,O'Reilly,2019,4.1,Y,83
+BK20442,한 권으로 끝내는 생물학,장성민,은행나무,2017,4.1,N,16
+BK20443,UX Research from Scratch,Kevin Moore,HarperCollins,2011,3.8,Y,54
+BK20444,Hands-On Deep Learning,Sophia Anderson,Apress,2022,3.4,Y,30
+BK20445,직장인을 위한 일본어,박민준,열린책들,2018,5.0,Y,15
+BK20446,글쓰기 다시 읽기,문나연,다산북스,2022,4.0,Y,48
+BK20447,음악 이론 마스터,류하린,창비,2019,3.5,N,62
+BK20448,경영 전략 첫걸음,안세아,은행나무,2015,3.1,Y,32
+BK20449,텍스트 마이닝 in python,류은우,웅진지식하우스,2018,4.1,N,1
+BK20450,바다의 하루,곽세아,창비,2021,3.6,Y,55
+BK20451,수학 다시 읽기,윤건우,열린책들,2016,3.5,Y,62
+BK20452,Biology Patterns,Grace Brown,HarperCollins,2017,3.3,Y,28
+BK20453,Real-World Data Science,Laura Clark,Packt,2011,3.7,Y,28
+BK20454,Python 알고리즘 입문,서소율,인사이트,2021,4.3,Y,65
+BK20455,Modern Psychology,Robert Taylor,HarperCollins,2019,3.4,Y,83
+BK20456,스페인어 마스터,하재원,은행나무,2021,3.6,Y,31
+BK20457,시계열 분석을 위한 워크북,최도현,인사이트,2024,3.4,Y,10
+BK20458,Effective Python Testing,Hannah Moore,Springer,2010,3.6,Y,23
+BK20459,시계열 분석 특강,구하은,제이펍,2015,4.1,Y,58
+BK20460,선형대수 입문,하하은,영진닷컴,2024,3.8,Y,31
+BK20461,Notes on Design,Thomas Adams,Penguin,2019,3.9,Y,19
+BK20462,낯선 방의 창문,허현우,창비,2020,4.0,Y,59
+BK20463,The Art of Photography,Andrew Moore,Bloomsbury,2017,3.2,N,15
+BK20464,마케팅 문제 해결 노트,차세아,민음사,2023,4.2,Y,90
+BK20465,python 머신러닝 워크북,한지민,이지스퍼블리싱,2021,3.8,Y,38
+BK20466,Learning Python Networking,Grace Baker,O'Reilly,2011,3.7,Y,57
+BK20467,노을이 사랑한 문장들,민지아,창비,2022,3.9,Y,130
+BK20468,요가 첫걸음,송서준,민음사,2019,2.7,Y,16
+BK20469,통계학 특강,고서준,길벗,2022,3.6,Y,34
+BK20470,Real-World Product Management,Robert Scott,Faber & Faber,2011,3.9,N,62
+BK20471,Paper Moons,Michael Green,HarperCollins,2013,4.1,Y,14
+BK20472,Notes on Music,Kevin Walker,Bloomsbury,2017,3.5,Y,14
+BK20473,영어 회화 바이블,진지아,창비,2022,3.5,N,26
+BK20474,파이썬과 통계,송현우,에이콘출판,2024,3.5,N,36
+BK20475,요가 입문,강건우,김영사,2011,3.7,N,14
+BK20476,수학과 미래,정도현,김영사,2023,4.7,Y,112
+BK20477,Hands-On Algorithms,Grace Brown,Springer,2015,3.3,Y,78
+BK20478,주식 마스터,양성민,민음사,2011,3.2,Y,84
+BK20479,어느 회사원의 하루,고채원,열린책들,2010,4.0,Y,41
+BK20480,Essential Computer Vision,Daniel Davis,Manning,2011,3.8,Y,32
+BK20481,미술사 실무 노트,우건우,김영사,2021,3.4,N,38
+BK20482,정원 가꾸기의 모든 것,김다은,김영사,2020,3.8,Y,44
+BK20483,The Glass Orchestra,Laura King,Vintage,2016,4.7,Y,101
+BK20484,세계사 실무 노트,차민준,김영사,2014,3.7,N,39
+BK20485,커피의 기술,진승현,열린책들,2017,3.8,Y,61
+BK20486,Game Programming in Python,Laura Taylor,Wiley,2011,4.0,N,34
+BK20487,생물학 핸드북,배동현,열린책들,2016,4.0,Y,25
+BK20488,한 권으로 끝내는 의학,이우진,다산북스,2019,3.8,Y,70
+BK20489,UX Research Cookbook,David Smith,Vintage,2014,4.6,N,26
+BK20490,세계사 교과서,백소율,민음사,2015,3.5,Y,19
+BK20491,시계열 분석 문제 해결 노트,최소율,에이콘출판,2010,3.8,Y,22
+BK20492,한 권으로 끝내는 통계학,신소율,인사이트,2022,4.4,Y,82
+BK20493,커피를 위한 작은 습관,주승현,문학동네,2011,4.9,Y,89
+BK20494,세계사 기초와 응용,최수아,창비,2017,5.0,Y,71
+BK20495,Economics Explained,Anna Smith,Faber & Faber,2014,4.0,N,38
+BK20496,Python 코딩 테스트,양현우,길벗,2022,3.6,Y,34
+BK20497,천문학 완벽 가이드,한은우,다산북스,2013,3.5,Y,69
+BK20498,철학의 정석,이연우,창비,2024,3.8,Y,51
+BK20499,붉은 지붕 아래,홍다은,웅진지식하우스,2014,4.3,Y,71
+BK20500,처음 배우는 간호학,문도현,다산북스,2017,4.6,Y,37
+BK20501,역사 마스터,노시우,문학동네,2011,3.6,N,47
+BK20502,Learning Mobile Apps,Emma Walker,Packt,2022,4.3,Y,39
+BK20503,나의 자기계발 일기,하우진,문학동네,2012,4.0,Y,51
+BK20504,코딩 테스트 with python 3,황수빈,위키북스,2024,3.4,Y,28
+BK20505,글쓰기 사례 연구,박건우,은행나무,2018,3.9,Y,14
+BK20506,자료구조 완벽 가이드,심성민,위키북스,2014,4.4,N,11
+BK20507,A Short History of Music,Olivia Hall,HarperCollins,2018,5.0,Y,163
+BK20508,오늘부터 자기계발,황지민,은행나무,2011,3.8,Y,79
+BK20509,간호학의 정석,김나연,김영사,2020,3.8,Y,12
+BK20510,Notes on Cooking,Mark Adams,Vintage,2024,4.4,Y,35
+BK20511,캠핑의 모든 것,신정우,웅진지식하우스,2017,4.3,Y,30
+BK20512,실전 Python 텍스트 마이닝,하재원,영진닷컴,2014,3.6,N,50
+BK20513,Effective Python Scientific Computing,Robert Wright,Apress,2012,4.0,N,52
+BK20514,인공지능 트렌드 2024,박지아,영진닷컴,2018,4.1,Y,30
+BK20515,The Design Companion,David Adams,HarperCollins,2021,3.9,Y,23
+BK20516,UX Research Crash Course,Mark Clark,Bloomsbury,2018,3.8,Y,30
+BK20517,Hands-On DevOps,James Anderson,Manning,2015,4.1,Y,61
+BK20518,창업 마스터,서태양,창비,2020,4.7,Y,104
+BK20519,Artificial Intelligence Crash Course,Kevin Wright,Packt,2012,4.1,N,40
+BK20520,Mobile Apps for Beginners,Julia Allen,Packt,2022,4.1,N,22
+BK20521,등산의 모든 것,곽승현,열린책들,2013,3.2,Y,21
+BK20522,Modern Big Data,Mark Clark,Wiley,2015,3.6,Y,21
+BK20523,Python과 자동화,최서준,에이콘출판,2021,4.8,Y,22
+BK20524,중국어 실무 노트,진건우,문학동네,2019,4.5,Y,13
+BK20525,경영 전략 핸드북,성나연,다산북스,2012,4.2,Y,84
+BK20526,서른이 사랑한 문장들,장다은,김영사,2014,4.0,Y,40
+BK20527,늦깎이 학생의 작은 습관,민태양,민음사,2013,3.6,Y,14
+BK20528,도시인과 걷는 길,서지호,창비,2013,2.8,Y,9
+BK20529,나의 식단 일기,강채원,민음사,2023,4.6,N,62
+BK20530,A Short History of Health,Robert Wilson,Faber & Faber,2021,3.8,N,121
+BK20531,Time Series Explained,Sophia Scott,Manning,2020,3.7,Y,40
+BK20532,컴퓨터 비전 문제 해결 노트,남수빈,제이펍,2020,4.1,Y,12
+BK20533,추천 시스템 스터디 가이드,안현우,영진닷컴,2013,3.8,N,68
+BK20534,간호학과 미래,성태양,문학동네,2020,3.4,Y,58
+BK20535,Mastering Leadership,Hannah Anderson,Vintage,2013,2.8,N,137
+BK20536,늦깎이 학생이 말하는 행복,구예린,김영사,2019,3.6,N,87
+BK20537,생각하는 웹 개발,조지훈,영진닷컴,2012,3.4,N,48
+BK20538,Economics Patterns,Michael Johnson,Bloomsbury,2019,3.0,Y,71
+BK20539,나의 육아 일기,권연우,은행나무,2020,4.7,Y,36
+BK20540,Marketing for Beginners,Sarah Brown,HarperCollins,2018,4.6,Y,110
+BK20541,확률론 트렌드 2024,우서연,위키북스,2016,3.6,Y,46
+BK20542,Thinking in Linear Algebra,Julia Wright,O'Reilly,2015,4.0,Y,96
+BK20543,혼자 공부하는 Python 데이터 분석,김서연,위키북스,2015,4.0,Y,36
+BK20544,Introduction to Linear Algebra,Grace King,Wiley,2018,3.7,Y,28
+BK20545,요리 첫걸음,이수아,웅진지식하우스,2014,3.1,Y,33
+BK20546,명상 인사이트,이우진,창비,2016,3.8,Y,18
+BK20547,영어 회화 트렌드 2024,최서연,웅진지식하우스,2022,4.2,Y,45
+BK20548,R로 배우는 통계 분석,정시우,제이펍,2015,2.7,Y,24
+BK20549,빅데이터 핵심 정리,안예린,영진닷컴,2020,5.0,Y,90
+BK20550,직장인을 위한 글쓰기,문은우,김영사,2021,3.6,Y,62
+BK20551,창업 교과서,손동현,민음사,2011,4.3,Y,31
+BK20552,Game Development for Beginners,Julia Smith,Manning,2024,4.3,Y,76
+BK20553,처음 시작하는 시간 관리,남시윤,김영사,2017,3.9,N,36
+BK20554,안개 속 등대,강세아,열린책들,2015,4.4,Y,77
+BK20555,Introduction to Cloud Computing,Robert King,Wiley,2020,3.8,Y,47
+BK20556,Small Hours,James Scott,Penguin,2012,3.8,Y,3
+BK20557,Applied Machine Learning,Kevin Baker,Wiley,2022,3.3,Y,27
+BK20558,창업 로드맵,곽지훈,은행나무,2013,3.9,N,34
+BK20559,네트워크를 위한 워크북,배건우,길벗,2022,3.2,Y,25
+BK20560,Hands-On Physics,Hannah Allen,Faber & Faber,2015,3.5,Y,8
+BK20561,실전 회계,성지아,웅진지식하우스,2013,4.4,N,47
+BK20562,컴퓨터 비전을 위한 워크북,조현우,한빛미디어,2023,4.3,Y,38
+BK20563,딥러닝을 위한 Python,권예린,위키북스,2019,2.9,Y,9
+BK20564,Introduction to Product Management,Olivia Wright,Vintage,2012,3.9,Y,9
+BK20565,Machine Learning Fundamentals,Peter Scott,Packt,2014,3.8,N,20
+BK20566,산책자가 말하는 행복,서세아,문학동네,2022,4.4,Y,54
+BK20567,Design Explained,Thomas Davis,Bloomsbury,2024,3.8,Y,47
+BK20568,딥러닝 다시 읽기,최세아,길벗,2011,3.7,Y,11
+BK20569,수학 문제 해결 노트,배승현,문학동네,2019,4.5,Y,115
+BK20570,정원 가꾸기의 즐거움,서시우,다산북스,2024,4.0,Y,24
+BK20571,Architecture: A Beginner's Journey,Andrew Green,Vintage,2012,3.5,Y,73
+BK20572,베이킹의 모든 것,노건우,창비,2011,4.0,N,85
+BK20573,실전 일본어,장하린,열린책들,2010,3.2,N,102
+BK20574,확률론 스터디 가이드,진하린,인사이트,2023,4.4,Y,31
+BK20575,생각하는 머신러닝,서하은,한빛미디어,2019,4.3,Y,62
+BK20576,실전 Python 머신러닝,민하은,인사이트,2011,4.6,Y,52
+BK20577,생각하는 빅데이터,송재원,인사이트,2016,3.6,Y,88
+BK20578,수학 입문,전승현,민음사,2020,4.2,N,25
+BK20579,모두의 Python 데이터 분석,주지우,영진닷컴,2021,3.6,Y,30
+BK20580,Introduction to Cooking,Andrew Green,Penguin,2019,3.7,Y,56
+BK20581,쉽게 배우는 등산,임동현,웅진지식하우스,2013,4.1,Y,33
+BK20582,House of Quiet Rooms,Sarah Moore,Faber & Faber,2019,3.4,Y,30
+BK20583,Python과 시각화,남우진,제이펍,2021,4.1,Y,42
+BK20584,하루 10분 와인,전건우,김영사,2013,4.4,N,58
+BK20585,실전 클라우드 컴퓨팅,성수빈,길벗,2012,3.8,N,25
+BK20586,자료구조 마스터,황태양,길벗,2024,3.5,Y,33
+BK20587,Modern Ethics,Grace Green,Vintage,2015,3.4,Y,35
+BK20588,직장인을 위한 재무 관리,전소율,다산북스,2013,4.1,Y,119
+BK20589,Music: A Beginner's Journey,Mark King,HarperCollins,2015,4.6,N,56
+BK20590,와인 핸드북,남지호,웅진지식하우스,2015,3.9,Y,31
+BK20591,누구나 할 수 있는 식단,유시윤,문학동네,2021,3.5,Y,33
+BK20592,Philosophy for Beginners,Mark Baker,HarperCollins,2024,3.7,Y,35
+BK20593,네트워크 핵심 정리,정준서,한빛미디어,2013,4.4,N,75
+BK20594,부동산 문제 해결 노트,곽예은,은행나무,2013,4.0,Y,45
+BK20595,Python for Data Engineering,Olivia Miller,Manning,2022,5.0,Y,40
+BK20596,Statistics in Python,Julia Wilson,O'Reilly,2012,3.9,Y,66
+BK20597,Effective Python Game Programming,Peter Hall,Springer,2024,4.7,N,31
+BK20598,The Travel Companion,Peter Wilson,Penguin,2012,4.0,Y,34
+BK20599,추천 시스템과 미래,한준서,에이콘출판,2024,4.3,Y,33
+BK20600,Cloud Computing Cookbook,Julia Brown,Manning,2011,4.6,Y,49
+BK20601,한 권으로 끝내는 자연어 처리,김지호,에이콘출판,2020,4.5,Y,55
+BK20602,실전 영화 비평,노서준,민음사,2022,3.1,N,21
+BK20603,커피가 삶을 바꾼다,진준서,다산북스,2021,4.3,Y,62
+BK20604,오늘부터 운동,안도현,문학동네,2020,4.0,Y,20
+BK20605,python 시각화 핸즈온,구나연,이지스퍼블리싱,2011,3.7,N,30
+BK20606,와인 완벽 가이드,고예린,문학동네,2023,4.2,Y,132
+BK20607,누구나 할 수 있는 캠핑,강지호,김영사,2015,4.2,N,105
+BK20608,Effective Python Robotics,Daniel Green,Springer,2022,3.2,Y,54
+BK20609,Thinking in Deep Learning,Daniel Brown,Apress,2022,4.3,Y,46
+BK20610,The Joy of Photography,Emily Johnson,Vintage,2013,3.5,Y,4
+BK20611,처음 배우는 경영 전략,배승현,창비,2021,4.2,N,69
+BK20612,시골 의사와 걷는 길,문연우,다산북스,2022,5.0,Y,34
+BK20613,Finance Fundamentals,Daniel Taylor,Faber & Faber,2011,3.5,N,61
+BK20614,처음 배우는 수학,양지민,창비,2010,3.8,N,47
+BK20615,건축의 정석,신예린,민음사,2023,4.4,Y,113
+BK20616,마흔의 사계절,우우진,웅진지식하우스,2011,4.0,Y,35
+BK20617,다이어트를 위한 작은 습관,배지민,민음사,2020,4.0,N,19
+BK20618,컴퓨터 비전 사례 연구,류정우,에이콘출판,2023,4.7,N,77
+BK20619,Writing for Beginners,James Anderson,Vintage,2021,3.5,Y,10
+BK20620,Statistics Step by Step,Sarah Allen,Manning,2021,3.5,N,44
+BK20621,Artificial Intelligence in Practice,Sophia Green,Packt,2015,4.7,Y,30
+BK20622,Python for Data Analysis,Peter Johnson,Manning,2023,4.2,Y,62
+BK20623,오늘부터 와인,고가은,은행나무,2011,4.3,Y,14
+BK20624,미술사 입문,강소율,은행나무,2024,4.1,Y,63
+BK20625,Python Scientific Computing Cookbook,David Young,Manning,2014,4.1,Y,39
+BK20626,산책자의 작은 습관,주서연,열린책들,2020,2.8,Y,73
+BK20627,통계학과 미래,민도현,인사이트,2023,4.7,Y,51
+BK20628,달빛 아래 서점,서시우,웅진지식하우스,2014,3.6,Y,67
+BK20629,부동산 실무 노트,정시윤,문학동네,2021,5.0,Y,56
+BK20630,식단 인사이트,조동현,열린책들,2018,3.8,Y,63
+BK20631,Introduction to Writing,Emily Scott,HarperCollins,2018,3.6,Y,55
+BK20632,와인의 즐거움,정채원,다산북스,2021,3.9,Y,51
+BK20633,The Architecture Companion,Thomas King,Penguin,2012,3.5,Y,84
+BK20634,"산책자, 그 후",노채원,은행나무,2021,3.7,Y,17
+BK20635,Data Visualization Step by Step,Sarah Green,O'Reilly,2019,4.0,Y,8
+BK20636,실전 추천 시스템,우가은,위키북스,2020,4.2,Y,63
+BK20637,Introduction to Philosophy,Daniel Miller,Faber & Faber,2018,4.1,N,23
+BK20638,Cloud Computing in Practice,Robert Clark,Apress,2015,2.3,Y,55
+BK20639,한국사 바이블,남승현,웅진지식하우스,2018,4.7,Y,75
+BK20640,Notes on Writing,James Anderson,Vintage,2015,3.3,Y,43
+BK20641,밤의 도서관,구정우,창비,2016,2.6,N,73
+BK20642,한국사 다시 읽기,송연우,열린책들,2012,3.3,Y,8
+BK20643,나의 여행 일기,곽시윤,민음사,2021,3.3,Y,19
+BK20644,확률론 첫걸음,임태양,한빛미디어,2023,4.7,N,72
+BK20645,Thinking in Databases,Mark Wilson,Wiley,2022,3.7,N,63
+BK20646,Applied Psychology,Julia Johnson,Bloomsbury,2017,3.6,Y,63
+BK20647,쉽게 배우는 일본어,민시우,창비,2015,4.3,Y,28
+BK20648,처음 시작하는 캠핑,곽지우,웅진지식하우스,2023,5.0,Y,43
+BK20649,The Psychology Handbook,Robert Baker,Vintage,2023,3.5,Y,14
+BK20650,Architecture for Beginners,Daniel Anderson,Bloomsbury,2015,3.7,N,31
+BK20651,클라우드 컴퓨팅 다시 읽기,서태양,인사이트,2011,4.2,Y,7
+BK20652,은퇴자의 하루,전준서,창비,2010,4.0,Y,44
+BK20653,Astronomy Explained,Emma Taylor,HarperCollins,2019,3.2,N,24
+BK20654,강화학습과 미래,남채원,한빛미디어,2016,3.7,N,53
+BK20655,데이터 분석 교과서,진서연,위키북스,2017,3.8,Y,52
+BK20656,시골 의사가 사랑한 문장들,김예린,문학동네,2023,4.3,N,14
+BK20657,Hands-On Marketing,Robert Young,Vintage,2021,4.8,Y,100
+BK20658,직장인을 위한 데이터 분석,백예은,이지스퍼블리싱,2024,4.2,Y,47
+BK20659,Natural Language Processing in Python,Kevin Brown,Springer,2010,4.1,N,45
+BK20660,Python 텍스트 마이닝 입문,한유진,한빛미디어,2017,4.5,N,97
+BK20661,Music for Beginners,Mark King,Faber & Faber,2015,3.7,Y,63
+BK20662,Learning Big Data,Michael Scott,Springer,2010,3.4,Y,7
+BK20663,Thinking in Leadership,Olivia Green,HarperCollins,2020,4.6,Y,71
+BK20664,UX Research in Practice,Mark Young,Bloomsbury,2014,2.8,N,45
+BK20665,화학 다시 읽기,하예린,열린책들,2017,4.3,Y,37
+BK20666,투자 완벽 가이드,진서준,열린책들,2010,3.1,Y,45
+BK20667,Thinking in Biology,Mark Scott,Bloomsbury,2015,3.5,Y,44
+BK20668,모두의 Python 웹 크롤링,진세아,제이펍,2022,4.8,Y,28
+BK20669,시계열 분석 바이블,노도현,위키북스,2019,4.0,Y,24
+BK20670,딥러닝 문제 해결 노트,노서준,에이콘출판,2024,4.1,Y,18
+BK20671,처음 배우는 창업,심채원,김영사,2023,3.9,Y,8
+BK20672,Applied Product Management,David Scott,Vintage,2019,3.9,Y,47
+BK20673,Python 기반 알고리즘 실습,장서준,인사이트,2013,3.7,Y,44
+BK20674,The Art of Travel,Sophia Green,Bloomsbury,2013,4.0,Y,69
+BK20675,중국어 사례 연구,곽지민,민음사,2018,3.8,Y,54
+BK20676,마지막 편지,안태양,웅진지식하우스,2011,4.2,Y,48
+BK20677,확률론을 위한 워크북,백다은,길벗,2020,4.0,Y,97
+BK20678,하루 10분 다이어트,노예은,은행나무,2013,4.9,Y,26
+BK20679,Linear Algebra Fundamentals,Sarah Wilson,Wiley,2020,4.7,Y,54
+BK20680,투자 입문,차연우,열린책들,2012,3.6,Y,35
+BK20681,오늘부터 정원 가꾸기,황수아,김영사,2013,3.5,Y,16
+BK20682,Learning Python Data Analysis,James Baker,O'Reilly,2014,4.4,Y,37
+BK20683,재무 관리 완벽 가이드,송서연,창비,2020,4.5,Y,35
+BK20684,화가의 하루,백우진,김영사,2017,3.9,N,12
+BK20685,Music for Everyone,Andrew King,Vintage,2016,4.2,N,24
+BK20686,정원 가꾸기 첫걸음,권정우,은행나무,2019,4.3,N,37
+BK20687,python 통계 핸즈온,권다은,인사이트,2019,4.8,Y,73
+BK20688,노을이 말하는 행복,홍우진,문학동네,2020,4.7,Y,27
+BK20689,네트워크의 정석,백수빈,인사이트,2010,2.8,Y,31
+BK20690,정원 가꾸기 완벽 가이드,전준서,웅진지식하우스,2020,3.8,Y,10
+BK20691,Echoes of Marrow Street,Daniel Brown,HarperCollins,2012,4.1,Y,76
+BK20692,Artificial Intelligence Cookbook,Anna Hall,Manning,2011,4.0,Y,30
+BK20693,The Startups Handbook,Emily Taylor,Vintage,2016,4.0,Y,55
+BK20694,구름 위의 정원,민지훈,열린책들,2015,3.3,Y,39
+BK20695,한 권으로 끝내는 머신러닝,구재원,한빛미디어,2024,3.9,Y,17
+BK20696,Effective Python Finance,Grace Clark,Packt,2024,4.1,Y,72
+BK20697,DevOps for Beginners,Laura Scott,Manning,2014,3.3,N,56
+BK20698,엄마의 하루,성다은,김영사,2023,4.1,Y,44
+BK20699,A Winter in Prague,Thomas Clark,Penguin,2013,3.7,Y,81
+BK20700,Natural Language Processing Fundamentals,Sarah King,Apress,2016,3.7,Y,37
+BK20701,경제학 완벽 가이드,민현우,다산북스,2017,3.2,Y,73
+BK20702,도시인이 말하는 행복,백지아,문학동네,2022,3.9,Y,84
+BK20703,Modern Product Management,David King,Faber & Faber,2023,5.0,Y,199
+BK20704,직장인을 위한 클라우드 컴퓨팅,한하은,한빛미디어,2010,3.6,Y,89
+BK20705,시계열 분석 기초와 응용,오예린,인사이트,2020,3.8,Y,16
+BK20706,음악 이론 핸드북,김채원,열린책들,2024,3.3,N,78
+BK20707,Python for Concurrency,Kevin Hall,Wiley,2015,3.5,Y,22
+BK20708,어느 회사원이 사랑한 문장들,장우진,문학동네,2016,3.8,Y,53
+BK20709,The Philosophy Companion,Kevin Taylor,Penguin,2017,3.8,Y,53
+BK20710,수면 이야기,장다은,민음사,2022,3.7,Y,33
+BK20711,Python 자동화 완벽 가이드,오민준,이지스퍼블리싱,2020,4.0,Y,58
+BK20712,자기계발 핸드북,차현우,문학동네,2020,3.9,Y,47
+BK20713,커피 첫걸음,허세아,김영사,2019,3.7,Y,22
+BK20714,독서법 마스터,하지우,창비,2012,3.8,Y,14
+BK20715,머신러닝 핸드북,임동현,길벗,2020,4.0,N,78
+BK20716,Deep Learning Patterns,Peter Allen,O'Reilly,2021,3.5,Y,49
+BK20717,처음 배우는 선형대수,한서준,위키북스,2024,3.5,Y,51
+BK20718,생각하는 앱 개발,손수빈,에이콘출판,2024,4.8,Y,78
+BK20719,머신러닝 첫걸음,심채원,인사이트,2024,4.8,Y,76
+BK20720,선형대수 첫걸음,심채원,영진닷컴,2024,5.0,Y,58
+BK20721,회계 핵심 정리,정도현,웅진지식하우스,2020,3.8,N,89
+BK20722,클라우드 컴퓨팅과 미래,고지호,위키북스,2018,3.8,Y,35
+BK20723,자연어 처리 핸드북,박가은,이지스퍼블리싱,2018,4.2,Y,11
+BK20724,운동을 위한 작은 습관,최채원,열린책들,2017,4.6,Y,52
+BK20725,습관의 모든 것,정연우,웅진지식하우스,2015,4.3,Y,32
+BK20726,Essential Reinforcement Learning,Olivia Clark,O'Reilly,2011,3.9,N,41
+BK20727,실전 한국사,허건우,웅진지식하우스,2015,4.3,Y,118
+BK20728,누구나 할 수 있는 습관,박서연,은행나무,2016,4.7,Y,18
+BK20729,Negotiation Crash Course,Andrew Taylor,Bloomsbury,2024,4.4,Y,29
+BK20730,Effective Python Visualization,Hannah Taylor,Manning,2016,4.1,Y,27
+BK20731,부동산 핵심 정리,홍현우,김영사,2024,4.0,Y,44
+BK20732,빅데이터 마스터,한채원,한빛미디어,2017,4.5,N,38
+BK20733,추천 시스템 로드맵,신서준,길벗,2014,4.0,N,60
+BK20734,재무 관리 로드맵,백하은,창비,2020,3.9,N,34
+BK20735,생물학 교과서,문나연,다산북스,2023,4.7,Y,16
+BK20736,쉽게 배우는 의학,장하린,민음사,2011,3.9,Y,18
+BK20737,데이터베이스 특강,문현우,위키북스,2024,3.6,Y,9
+BK20738,영화 비평 핵심 정리,구준서,문학동네,2019,3.4,Y,52
+BK20739,한국사 스터디 가이드,전은우,은행나무,2018,4.9,Y,34
+BK20740,나의 베이킹 일기,박은우,김영사,2021,4.1,Y,52
+BK20741,Python 기반 코딩 테스트 실습,허태양,제이펍,2020,3.3,Y,56
+BK20742,Introduction to Economics,Andrew Green,Penguin,2012,3.8,Y,37
+BK20743,요리사가 사랑한 문장들,황성민,다산북스,2014,3.5,Y,86
+BK20744,Python과 GUI 프로그래밍,정채원,인사이트,2019,4.2,N,20
+BK20745,화가가 말하는 행복,차성민,다산북스,2014,4.0,Y,61
+BK20746,처음 시작하는 습관,심지아,다산북스,2015,4.1,N,27
+BK20747,반려동물이 삶을 바꾼다,오지민,열린책들,2018,3.4,Y,41
+BK20748,영화 비평 바이블,허은우,웅진지식하우스,2012,4.7,Y,19
+BK20749,Real-World Project Management,Laura Johnson,HarperCollins,2015,4.5,N,25
+BK20750,영화 비평 로드맵,진정우,다산북스,2020,4.1,Y,61
+BK20751,쉽게 배우는 추천 시스템,양서준,영진닷컴,2018,4.2,Y,11
+BK20752,데이터베이스 스터디 가이드,심정우,영진닷컴,2015,5.0,Y,19
+BK20753,Python 알고리즘 완벽 가이드,박유진,한빛미디어,2016,3.9,Y,13
+BK20754,Biology from Scratch,Hannah Davis,Faber & Faber,2019,3.9,N,59
+BK20755,한 권으로 끝내는 주식,장지민,은행나무,2021,4.2,Y,74
+BK20756,컴퓨터 비전 30일 완성,류나연,제이펍,2021,4.2,N,56
+BK20757,책방 주인이 사랑한 문장들,권건우,창비,2013,3.6,Y,19
+BK20758,그림으로 배우는 반려동물,허다은,열린책들,2017,2.8,Y,82
+BK20759,Databases in Practice,Kevin Walker,Springer,2013,4.3,Y,47
+BK20760,Advanced DevOps,Emily Adams,Packt,2015,3.0,Y,56
+BK20761,처음 배우는 미술사,백민준,문학동네,2012,4.2,Y,23
+BK20762,History Made Simple,Emily Green,Vintage,2015,4.1,Y,16
+BK20763,경영 전략 100문 100답,임소율,웅진지식하우스,2018,4.4,Y,18
+BK20764,노을의 사계절,안세아,민음사,2017,3.5,N,57
+BK20765,데이터베이스를 위한 워크북,차우진,인사이트,2012,3.9,Y,48
+BK20766,History for Everyone,Hannah Davis,Faber & Faber,2024,4.3,N,6
+BK20767,캠핑 인사이트,차시우,열린책들,2023,3.9,Y,28
+BK20768,간호학 첫걸음,손예린,웅진지식하우스,2012,3.2,N,47
+BK20769,"노을, 그 후",류나연,창비,2016,3.9,Y,32
+BK20770,Python 기반 과학 계산 실습,박수빈,한빛미디어,2021,4.9,Y,71
+BK20771,수면의 기술,이태양,김영사,2015,3.3,Y,20
+BK20772,그림으로 배우는 생물학,홍우진,은행나무,2015,3.3,Y,23
+BK20773,엄마가 사랑한 문장들,박연우,민음사,2017,4.2,Y,20
+BK20774,캠핑의 즐거움,장현우,민음사,2023,4.4,N,32
+BK20775,자료구조 교과서,강서준,에이콘출판,2023,4.5,Y,26
+BK20776,The Astronomy Handbook,Hannah Baker,Bloomsbury,2016,3.3,Y,44
+BK20777,건강의 기술,허성민,창비,2016,4.1,N,65
+BK20778,부동산 사례 연구,고도현,열린책들,2016,3.6,Y,23
+BK20779,실전 화학,전연우,김영사,2020,4.7,Y,80
+BK20780,Real-World Marketing,Emily Walker,Faber & Faber,2019,3.9,Y,45
+BK20781,실전 역사,임지호,창비,2015,4.5,N,105
+BK20782,철학 마스터,곽재원,창비,2020,3.7,Y,35
+BK20783,Mobile Apps Cookbook,Laura Scott,Packt,2019,3.6,N,37
+BK20784,스페인어 문제 해결 노트,백나연,창비,2022,4.1,N,10
+BK20785,Learning Python Testing,Laura Moore,Manning,2019,3.2,N,8
+BK20786,생물학 실무 노트,윤하은,은행나무,2013,3.6,Y,34
+BK20787,Python for Algorithms,Mark Clark,Apress,2019,4.0,N,54
+BK20788,건축 첫걸음,전유진,김영사,2014,3.6,Y,62
+BK20789,Python 머신러닝 입문,안하린,위키북스,2023,3.8,Y,17
+BK20790,Data Structures in Practice,Olivia Walker,Wiley,2015,4.4,Y,105
+BK20791,시계열 분석 사례 연구,구소율,제이펍,2022,3.6,N,87
+BK20792,그림으로 배우는 운동,신연우,민음사,2020,3.3,Y,10
+BK20793,실전 데이터 분석,홍유진,인사이트,2015,3.3,N,30
+BK20794,생물학 특강,배지호,김영사,2023,4.6,Y,29
+BK20795,쉽게 배우는 생물학,오서준,창비,2022,4.9,N,77
+BK20796,Big Data Step by Step,Hannah Wilson,Packt,2017,4.4,Y,20
+BK20797,Essential Algorithms,Laura King,Springer,2021,3.0,N,27
+BK20798,Introduction to Artificial Intelligence,Olivia Green,Apress,2020,4.1,Y,5
+BK20799,Design Made Simple,Grace Green,Penguin,2013,3.7,Y,11
+BK20800,하루 10분 수면,신하은,창비,2021,3.5,Y,64
+BK20801,수학 로드맵,전재원,김영사,2010,4.0,N,67
+BK20802,Advanced Chemistry,Michael Miller,Penguin,2020,3.4,N,25
+BK20803,명상을 위한 작은 습관,배예린,민음사,2013,4.1,N,29
+BK20804,통계학 바이블,배세아,이지스퍼블리싱,2023,4.0,Y,32
+BK20805,캠핑 입문,차동현,문학동네,2010,3.4,Y,11
+BK20806,그림으로 배우는 정원 가꾸기,유지아,문학동네,2017,4.0,N,38
+BK20807,Data Visualization from Scratch,Sophia Miller,O'Reilly,2010,3.9,Y,172
+BK20808,약학 문제 해결 노트,정우진,김영사,2024,4.0,N,21
+BK20809,딥러닝 완벽 가이드,이지호,제이펍,2022,4.8,Y,94
+BK20810,The Clockmaker's Daughter,Andrew Moore,Penguin,2021,3.7,Y,44
+BK20811,Data Science for Beginners,Andrew Young,Springer,2018,2.8,Y,26
+BK20812,"어느 회사원, 그 후",송지민,열린책들,2016,4.2,Y,71
+BK20813,요리 이야기,곽시우,은행나무,2019,3.7,Y,24
+BK20814,Python으로 배우는 시각화,한재원,길벗,2022,4.5,Y,48
+BK20815,커피 입문,곽준서,김영사,2016,4.6,Y,14
+BK20816,반려동물 첫걸음,장지호,김영사,2021,4.6,Y,47
+BK20817,Real-World Time Series,Peter Hall,Packt,2017,4.4,Y,11
+BK20818,여행자에게 보내는 편지,전예은,웅진지식하우스,2023,4.1,Y,102
+BK20819,중국어 바이블,하예린,열린책들,2015,2.9,Y,12
+BK20820,바다의 사계절,홍동현,김영사,2010,4.1,Y,11
+BK20821,처음 시작하는 운동,유태양,은행나무,2020,3.7,N,29
+BK20822,선형대수 사례 연구,심채원,위키북스,2014,4.1,Y,39
+BK20823,Startups Cookbook,Julia Smith,HarperCollins,2015,3.3,Y,57
+BK20824,Salt and Stars,Kevin Adams,Faber & Faber,2014,3.5,Y,53
+BK20825,음악 이론과 미래,우연우,김영사,2015,3.5,Y,66
+BK20826,독서법 완벽 가이드,차가은,은행나무,2024,3.3,Y,12
+BK20827,역사의 정석,심시우,다산북스,2019,3.8,N,55
+BK20828,데이터 분석 기초와 응용,우예린,영진닷컴,2018,3.3,Y,24
+BK20829,클라우드 컴퓨팅 핸드북,신동현,길벗,2019,3.5,Y,54
+BK20830,스페인어와 미래,강예은,문학동네,2020,3.5,Y,57
+BK20831,약학 완벽 가이드,정정우,다산북스,2024,4.9,Y,87
+BK20832,Data Engineering with Python,Robert Moore,Apress,2015,4.5,N,50
+BK20833,한 권으로 끝내는 미술사,문지훈,문학동네,2011,4.1,N,61
+BK20834,Advanced Big Data,Robert Young,O'Reilly,2023,3.6,Y,34
+BK20835,나의 커피 일기,민지우,다산북스,2010,4.7,N,132
+BK20836,Web Development Fundamentals,Sarah Moore,Wiley,2020,3.8,Y,27
+BK20837,중국어 완벽 가이드,성지아,김영사,2012,3.9,N,6
+BK20838,한 권으로 끝내는 영화 비평,오소율,민음사,2017,3.6,Y,79
+BK20839,앱 개발과 미래,홍동현,영진닷컴,2012,4.3,N,12
+BK20840,그림으로 배우는 앱 개발,성지훈,인사이트,2020,4.6,Y,60
+BK20841,선형대수 바이블,남나연,제이펍,2023,3.7,Y,19
+BK20842,Python 시각화 입문,우지훈,영진닷컴,2013,4.9,Y,54
+BK20843,물리학 기초와 응용,양민준,웅진지식하우스,2019,4.3,Y,33
+BK20844,부동산 로드맵,양소율,문학동네,2015,4.1,N,87
+BK20845,딥러닝 교과서,곽나연,길벗,2023,3.1,Y,110
+BK20846,쉽게 배우는 확률론,임시윤,제이펍,2017,4.7,Y,110
+BK20847,선형대수 특강,장연우,영진닷컴,2014,3.5,N,25
+BK20848,Python Statistics,Sophia Miller,Packt,2020,4.5,Y,25
+BK20849,앱 개발 입문,문동현,에이콘출판,2020,3.8,Y,15
+BK20850,Design for Everyone,Anna Green,Bloomsbury,2016,3.7,Y,118
+BK20851,오늘부터 반려동물,곽지호,창비,2024,4.5,Y,35
+BK20852,Cooking Made Simple,Sophia Anderson,Vintage,2021,4.1,N,66
+BK20853,여행자가 사랑한 문장들,이시윤,창비,2013,4.3,N,21
+BK20854,여행자의 하루,노지호,문학동네,2021,3.4,Y,16
+BK20855,잃어버린 지도,류시윤,웅진지식하우스,2019,3.4,Y,19
+BK20856,그림으로 배우는 독서법,오예은,창비,2023,3.4,Y,66
+BK20857,Applied Marketing,James Miller,Penguin,2013,3.5,Y,46
+BK20858,Practical Data Structures,Peter Johnson,Apress,2022,3.7,Y,72
+BK20859,머신러닝을 위한 워크북,송다은,위키북스,2024,4.5,N,37
+BK20860,누구나 할 수 있는 건강,류서준,은행나무,2024,4.6,Y,25
+BK20861,통계학 스터디 가이드,허지민,이지스퍼블리싱,2016,3.7,N,56
+BK20862,Python for Natural Language Processing,Andrew Smith,Manning,2016,3.9,N,29
+BK20863,자연어 처리 문제 해결 노트,신나연,길벗,2021,4.0,Y,34
+BK20864,Mobile Apps Patterns,Anna Davis,Springer,2020,4.7,Y,23
+BK20865,마케팅 스터디 가이드,진민준,김영사,2023,3.9,Y,28
+BK20866,철학 문제 해결 노트,안지우,은행나무,2020,3.9,Y,48
+BK20867,중국어의 정석,민준서,민음사,2012,3.8,N,75
+BK20868,경제학 기초와 응용,권다은,다산북스,2023,4.1,Y,60
+BK20869,요리의 기술,임예은,은행나무,2014,3.2,Y,28
+BK20870,Python 기반 텍스트 마이닝 실습,진현우,인사이트,2022,3.7,N,33
+BK20871,Everyday Writing,Emily Johnson,Vintage,2024,3.5,Y,15
+BK20872,Essential Cybersecurity,Kevin Scott,Manning,2019,4.1,Y,37
+BK20873,마케팅 바이블,조서연,창비,2023,4.0,Y,94
+BK20874,재무 관리 기초와 응용,하소율,창비,2018,4.0,N,108
+BK20875,나의 다이어트 일기,민소율,은행나무,2011,3.8,Y,47
+BK20876,앱 개발 기초와 응용,한서연,이지스퍼블리싱,2010,3.9,Y,61
+BK20877,Time Series Patterns,Peter Green,Manning,2017,4.4,Y,78
+BK20878,Thinking in DevOps,Hannah Davis,Springer,2015,3.5,Y,32
+BK20879,심리학 기초와 응용,장지호,민음사,2020,4.3,Y,48
+BK20880,Notes on Photography,Laura Smith,Bloomsbury,2021,4.1,Y,35
+BK20881,Practical Ethics,Thomas Hall,Penguin,2013,4.6,Y,20
+BK20882,마케팅 핵심 정리,고서연,다산북스,2019,4.3,Y,18
+BK20883,영어 회화 스터디 가이드,권태양,웅진지식하우스,2013,4.2,Y,92
+BK20884,클라우드 컴퓨팅 완벽 가이드,서예린,길벗,2016,2.7,N,58
+BK20885,경제학 특강,진수아,민음사,2018,3.5,Y,30
+BK20886,확률론 핸드북,문현우,위키북스,2010,4.1,Y,23
+BK20887,스페인어 트렌드 2024,허채원,민음사,2012,3.6,Y,18
+BK20888,나의 명상 일기,권도현,문학동네,2022,3.9,Y,79
+BK20889,Applied Mobile Apps,Emma Davis,Packt,2018,3.1,Y,81
+BK20890,확률론 실무 노트,허준서,위키북스,2016,4.0,Y,40
+BK20891,Practical Software Engineering,Laura Clark,Manning,2021,3.2,Y,20
+BK20892,마케팅을 위한 워크북,강태양,은행나무,2021,4.2,Y,78
+BK20893,요리사의 하루,류채원,다산북스,2017,2.8,Y,27
+BK20894,Mobile Apps Step by Step,Robert Davis,O'Reilly,2012,4.0,Y,80
+BK20895,Hands-On Startups,Emily Adams,Bloomsbury,2017,4.4,Y,54
+BK20896,철학 특강,황정우,은행나무,2016,3.4,Y,43
+BK20897,History for Beginners,Anna Anderson,Vintage,2023,3.8,N,34
+BK20898,일본어 스터디 가이드,홍채원,다산북스,2011,4.2,Y,100
+BK20899,Everyday Design,Mark Johnson,Vintage,2010,4.6,N,26
+BK20900,Essential Mobile Apps,Mark Miller,Packt,2013,4.6,Y,98
+BK20901,웹 개발을 위한 워크북,최정우,한빛미디어,2019,4.8,N,29
+BK20902,오늘부터 커피,신건우,민음사,2024,3.5,Y,24
+BK20903,정원사가 사랑한 문장들,차태양,민음사,2011,4.2,Y,24
+BK20904,Blockchain Step by Step,Thomas Moore,Wiley,2014,4.1,N,16
+BK20905,간호학 핵심 정리,조시우,문학동네,2011,2.9,N,13
+BK20906,자연어 처리 실무 노트,류지우,위키북스,2010,3.7,N,28
+BK20907,Natural Language Processing Step by Step,Sarah Young,Manning,2018,3.3,N,44
+BK20908,주식 기초와 응용,양예은,다산북스,2022,2.9,Y,77
+BK20909,웹 개발 첫걸음,허하은,이지스퍼블리싱,2024,4.5,Y,91
+BK20910,부동산 다시 읽기,박지훈,창비,2024,4.4,N,53
+BK20911,자기계발 첫걸음,유서연,웅진지식하우스,2015,3.6,N,72
+BK20912,Biology Step by Step,Laura Brown,Faber & Faber,2022,3.8,Y,4
+BK20913,쉽게 배우는 투자,최하린,열린책들,2017,3.3,Y,11
+BK20914,Hands-On Data Science,Olivia Taylor,Wiley,2011,4.9,Y,41
+BK20915,정원사에게 보내는 편지,홍지훈,은행나무,2020,3.6,Y,32
+BK20916,Biology Crash Course,Daniel Brown,HarperCollins,2018,3.7,Y,74
+BK20917,Modern Deep Learning,Peter Scott,Wiley,2022,3.9,Y,41
+BK20918,데이터 분석의 정석,허현우,제이펍,2013,4.1,N,27
+BK20919,Machine Learning Patterns,Julia Johnson,Packt,2022,4.2,Y,63
+BK20920,Software Engineering Explained,Sophia Wright,Manning,2021,4.1,Y,48
+BK20921,Python 코딩 테스트 완벽 가이드,강성민,인사이트,2013,4.7,Y,36
+BK20922,생각하는 일본어,조지호,다산북스,2022,4.0,N,25
+BK20923,The Finance Handbook,James Adams,HarperCollins,2023,4.2,Y,16
+BK20924,실전 빅데이터,장현우,이지스퍼블리싱,2012,4.2,Y,48
+BK20925,The Art of Architecture,Hannah Young,HarperCollins,2021,4.1,Y,57
+BK20926,The Joy of Writing,Mark Moore,Faber & Faber,2018,4.2,Y,69
+BK20927,Mastering DevOps,Laura Moore,Packt,2018,4.1,Y,76
+BK20928,서른의 작은 습관,한성민,열린책들,2024,4.1,Y,60
+BK20929,식단이 삶을 바꾼다,서지훈,은행나무,2021,3.9,Y,19
+BK20930,Networking in Python,Sophia Taylor,O'Reilly,2016,4.0,Y,32
+BK20931,강화학습 핵심 정리,전우진,길벗,2024,5.0,Y,60
+BK20932,나의 수면 일기,한도현,김영사,2023,3.8,Y,48
+BK20933,회계 첫걸음,이승현,김영사,2014,4.1,Y,20
+BK20934,Hands-On Ethics,Anna Wilson,Bloomsbury,2024,4.3,Y,69
+BK20935,별을 세는 아이,장다은,문학동네,2020,5.0,Y,112
+BK20936,빈 의자의 기억,심지아,다산북스,2012,3.9,N,7
+BK20937,여름의 끝에서,정우진,웅진지식하우스,2010,4.1,Y,57
+BK20938,Effective Python APIs,Anna Baker,O'Reilly,2020,4.0,Y,40
+BK20939,처음 시작하는 여행,권민준,은행나무,2013,4.7,Y,67
+BK20940,화학을 위한 워크북,한시윤,열린책들,2018,3.5,Y,40
+BK20941,반려동물 핸드북,노예은,민음사,2010,3.2,N,78
+BK20942,"시골 의사, 그 후",주건우,창비,2023,4.4,Y,59
+BK20943,한 권으로 끝내는 웹 개발,박우진,한빛미디어,2024,4.3,Y,118
+BK20944,시골 의사가 말하는 행복,손서준,은행나무,2022,3.4,N,18
+BK20945,물리학 100문 100답,차지민,김영사,2015,4.0,Y,21
+BK20946,경제학 사례 연구,오재원,민음사,2016,3.9,Y,16
+BK20947,요가 완벽 가이드,윤정우,열린책들,2021,3.2,Y,6
+BK20948,확률론 100문 100답,장지호,영진닷컴,2011,3.9,Y,33
+BK20949,고요한 폭풍,류은우,웅진지식하우스,2014,4.6,N,57
+BK20950,수학 첫걸음,임준서,열린책들,2019,5.0,Y,49
+BK20951,선형대수 교과서,진지호,위키북스,2013,3.4,N,30
+BK20952,산책자가 사랑한 문장들,주현우,은행나무,2012,3.4,N,26
+BK20953,The Art of Philosophy,Emma Green,Faber & Faber,2021,4.1,Y,29
+BK20954,Artificial Intelligence Patterns,Julia Adams,Wiley,2015,3.6,Y,92
+BK20955,바다가 말하는 행복,노지훈,김영사,2013,4.0,Y,36
+BK20956,육아의 모든 것,이서준,웅진지식하우스,2018,3.7,N,51
+BK20957,Advanced Ethics,Robert Wright,Vintage,2017,3.6,Y,80
+BK20958,커피의 즐거움,신동현,문학동네,2024,4.3,Y,52
+BK20959,마흔이 말하는 행복,홍도현,창비,2014,3.5,Y,89
+BK20960,처음 배우는 심리학,진하은,웅진지식하우스,2018,3.5,N,108
+BK20961,와인 입문,임성민,민음사,2017,3.5,N,24
+BK20962,"여행자, 그 후",성나연,웅진지식하우스,2023,5.0,Y,43
+BK20963,선형대수 기초와 응용,안도현,위키북스,2021,3.7,Y,90
+BK20964,Modern Software Engineering,Hannah Johnson,Wiley,2011,4.4,Y,46
+BK20965,The Last Cartographer,Laura Wright,Penguin,2017,3.9,Y,109
+BK20966,등산 입문,백가은,김영사,2013,4.6,N,48
+BK20967,Practical Data Science,Anna Miller,Manning,2024,3.4,Y,32
+BK20968,선형대수 핸드북,유다은,영진닷컴,2017,3.7,Y,29
+BK20969,Learning Python Image Processing,Sophia King,O'Reilly,2012,4.5,N,24
+BK20970,바람이 머무는 자리,양동현,김영사,2023,4.3,Y,33
+BK20971,Linear Algebra in Practice,Julia King,Manning,2013,4.2,N,5
+BK20972,직장인을 위한 역사,정나연,열린책들,2016,4.1,Y,35
+BK20973,자기계발 이야기,강하은,김영사,2016,3.2,Y,56
+BK20974,늦깎이 학생이 사랑한 문장들,문지아,창비,2015,5.0,N,51
+BK20975,Hands-On Artificial Intelligence,Emma Johnson,O'Reilly,2020,4.0,Y,59
+BK20976,독서법 실무 노트,박동현,김영사,2022,4.1,N,46
+BK20977,실전 시계열 분석,배건우,영진닷컴,2020,4.3,Y,20
+BK20978,심리학 문제 해결 노트,서세아,창비,2019,3.8,Y,51
+BK20979,The Joy of Design,Laura Smith,Vintage,2018,4.4,Y,29
+BK20980,Modern Natural Language Processing,Laura Davis,Wiley,2024,3.4,Y,8
+BK20981,식단 이야기,문지민,창비,2022,3.4,Y,15
+BK20982,Learning Artificial Intelligence,Hannah Smith,O'Reilly,2018,3.5,Y,25
+BK20983,그림으로 배우는 다이어트,허시우,민음사,2017,4.2,Y,13
+BK20984,실전 마케팅,임건우,열린책들,2014,3.6,Y,49
+BK20985,Leadership: A Practical Guide,Kevin Walker,Faber & Faber,2024,4.1,Y,27
+BK20986,Deep Learning for Beginners,Daniel Miller,Wiley,2017,3.3,Y,22
+BK20987,Applied Data Visualization,Daniel Green,O'Reilly,2010,3.9,Y,9
+BK20988,투자 특강,고정우,열린책들,2021,4.4,Y,86
+BK20989,빅데이터 문제 해결 노트,진가은,위키북스,2020,4.7,Y,72
+BK20990,그림으로 배우는 데이터 분석,구재원,한빛미디어,2017,3.7,N,54
+BK20991,수학 30일 완성,최채원,다산북스,2011,3.6,N,72
+BK20992,그림으로 배우는 건강,신승현,민음사,2023,4.3,Y,55
+BK20993,바다의 작은 습관,양서준,창비,2018,3.9,Y,21
+BK20994,생각하는 세계사,하승현,웅진지식하우스,2021,4.5,Y,36
+BK20995,Photography Made Simple,Kevin Smith,HarperCollins,2013,4.1,Y,11
+BK20996,Effective Python Algorithms,David Walker,Manning,2017,3.6,N,42
+BK20997,Ethics Step by Step,Sophia Smith,HarperCollins,2014,3.9,N,29
+BK20998,딥러닝 스터디 가이드,노지아,에이콘출판,2011,3.6,Y,40
+BK20999,Hands-On Finance,Kevin Wilson,Bloomsbury,2011,4.0,Y,46
+BK21000,화학 완벽 가이드,성서준,김영사,2010,4.6,N,7
+BK21001,Everyday Architecture,Emily Walker,Bloomsbury,2014,3.9,N,102
+BK21002,딥러닝 마스터,우성민,길벗,2013,3.8,Y,103
+BK21003,직장인을 위한 회계,신지우,민음사,2016,4.2,Y,48
+BK21004,여행자와 걷는 길,배수아,은행나무,2019,3.6,Y,30
+BK21005,그림으로 배우는 여행,황가은,은행나무,2013,4.0,Y,25
+BK21006,네트워크 사례 연구,주현우,제이펍,2020,3.2,Y,61
+BK21007,Python 과학 계산,문수아,인사이트,2021,3.7,N,48
+BK21008,직장인을 위한 스페인어,유정우,민음사,2018,3.9,N,54
+BK21009,한 권으로 끝내는 데이터베이스,강동현,영진닷컴,2023,3.7,N,30
+BK21010,Learning Leadership,Laura Moore,Penguin,2010,3.4,Y,50
+BK21011,쉽게 배우는 인공지능,곽재원,이지스퍼블리싱,2012,3.0,Y,10
+BK21012,한 권으로 끝내는 선형대수,민지민,에이콘출판,2020,3.8,N,20
+BK21013,물리학 마스터,우채원,열린책들,2010,2.9,Y,9
+BK21014,Learning Web Development,Hannah Wright,Springer,2024,4.9,N,32
+BK21015,Algorithms in Python,Sophia Adams,Springer,2016,3.4,N,34
+BK21016,천문학 스터디 가이드,허수아,다산북스,2021,3.3,N,55
+BK21017,파이썬으로 배우는 데이터 분석,송우진,제이펍,2019,3.7,Y,2
+BK21018,모두의 Python 데이터베이스 연동,김지훈,한빛미디어,2020,3.8,Y,48
+BK21019,Applied Cybersecurity,Robert Miller,Wiley,2012,3.6,Y,26
+BK21020,은퇴자가 말하는 행복,문연우,은행나무,2020,4.5,Y,12
+BK21021,인공지능 다시 읽기,정가은,한빛미디어,2014,3.0,Y,18
+BK21022,Game Development Patterns,Anna King,Springer,2010,3.9,N,4
+BK21023,Chemistry Step by Step,Andrew Moore,Vintage,2010,3.9,N,42
+BK21024,철학 트렌드 2024,홍지아,다산북스,2023,3.9,Y,32
+BK21025,창업 다시 읽기,구도현,은행나무,2019,3.6,Y,80
+BK21026,Modern Databases,Laura Walker,Wiley,2011,3.4,Y,48
+BK21027,Thinking in Finance,Andrew Miller,Penguin,2015,3.6,Y,25
+BK21028,Cloud Computing Step by Step,Emily Clark,Wiley,2022,3.9,Y,17
+BK21029,Python과 자연어 처리,하민준,영진닷컴,2021,3.9,Y,43
+BK21030,심리학 100문 100답,한지민,다산북스,2019,4.1,Y,36
+BK21031,처음 배우는 인공지능,안유진,인사이트,2023,3.3,Y,50
+BK21032,인공지능 사례 연구,백예은,영진닷컴,2015,4.2,N,14
+BK21033,시간 관리 이야기,허나연,은행나무,2015,3.3,N,95
+BK21034,의학과 미래,장민준,은행나무,2010,4.3,Y,71
+BK21035,강화학습 30일 완성,차도현,인사이트,2019,4.4,Y,48
+BK21036,생각하는 창업,신다은,열린책들,2017,5.0,Y,66
+BK21037,쉽게 배우는 강화학습,심세아,한빛미디어,2012,5.0,N,87
+BK21038,Applied Artificial Intelligence,Sophia Brown,Packt,2021,4.8,Y,34
+BK21039,Finance with Python,David Young,Manning,2024,4.3,Y,61
+BK21040,생각하는 클라우드 컴퓨팅,류소율,영진닷컴,2014,4.0,N,60
+BK21041,생각하는 주식,남소율,은행나무,2024,3.5,N,20
+BK21042,Applied Physics,David Baker,Bloomsbury,2011,3.4,N,45
+BK21043,투자 핵심 정리,한지아,김영사,2023,3.2,N,68
+BK21044,The Art of History,Grace Brown,Vintage,2020,3.7,N,6
+BK21045,머신러닝 교과서,오예린,에이콘출판,2023,4.4,N,79
+BK21046,지구과학 다시 읽기,유하은,다산북스,2024,4.9,Y,28
+BK21047,Travel: A Beginner's Journey,James Allen,Bloomsbury,2013,5.0,Y,85
+BK21048,나의 건강 일기,서현우,은행나무,2015,3.3,N,12
+BK21049,Natural Language Processing Patterns,Sarah Wright,Springer,2015,4.4,Y,25
+BK21050,Cloud Computing Fundamentals,Thomas Wright,O'Reilly,2021,2.8,Y,8
+BK21051,창업 특강,양소율,김영사,2020,3.6,N,89
+BK21052,Psychology Crash Course,Michael Adams,HarperCollins,2015,3.9,N,69
+BK21053,숲속의 시계탑,고연우,다산북스,2018,3.4,N,87
+BK21054,한 권으로 끝내는 음악 이론,민세아,다산북스,2010,4.2,Y,30
+BK21055,네트워크 실무 노트,황하은,위키북스,2015,4.3,N,76
+BK21056,"바다, 그 후",곽세아,민음사,2016,3.8,N,46
+BK21057,Python 텍스트 마이닝 완벽 가이드,우예은,한빛미디어,2012,4.1,Y,28
+BK21058,Python 통계 완벽 가이드,배승현,한빛미디어,2020,4.6,N,52
+BK21059,모두의 Python 게임 프로그래밍,조연우,에이콘출판,2014,3.5,Y,37
+BK21060,Learning UX Research,Kevin Anderson,Penguin,2015,4.0,Y,26
+BK21061,미술사를 위한 워크북,조나연,문학동네,2019,3.6,N,20
+BK21062,Chemistry Crash Course,James Davis,Vintage,2011,3.9,Y,44
+BK21063,반려동물을 위한 작은 습관,이채원,다산북스,2016,4.2,Y,80
+BK21064,Databases: A Practical Guide,Andrew Davis,Wiley,2016,4.4,Y,9
+BK21065,천문학과 미래,유은우,열린책들,2016,4.0,Y,25
+BK21066,Advanced Mobile Apps,Sophia Anderson,Springer,2011,3.0,Y,77
+BK21067,Mastering Software Engineering,Thomas Smith,Packt,2013,4.6,Y,31
+BK21068,선형대수 문제 해결 노트,백준서,이지스퍼블리싱,2016,3.4,Y,50
+BK21069,습관 입문,차예은,다산북스,2015,4.3,Y,47
+BK21070,웹 개발 사례 연구,유성민,인사이트,2019,4.2,Y,150
+BK21071,오늘부터 요리,정연우,열린책들,2020,4.9,N,43
+BK21072,Python Algorithms Workbook,Sarah Baker,Apress,2024,3.0,Y,20
+BK21073,Cooking Explained,Grace Scott,Faber & Faber,2012,4.2,Y,37
+BK21074,웹 개발 트렌드 2024,김수빈,길벗,2015,3.8,Y,49
+BK21075,인공지능 완벽 가이드,문도현,인사이트,2024,3.9,Y,59
+BK21076,쉽게 배우는 육아,서지호,민음사,2013,3.7,Y,19
+BK21077,직장인을 위한 심리학,임예은,은행나무,2018,3.2,Y,21
+BK21078,처음 시작하는 베이킹,우지호,웅진지식하우스,2024,3.0,Y,104
+BK21079,DevOps from Scratch,Laura Smith,O'Reilly,2010,4.4,Y,35
+BK21080,추천 시스템을 위한 워크북,민지민,인사이트,2020,4.5,Y,36
+BK21081,쉽게 배우는 선형대수,황동현,제이펍,2021,4.0,Y,134
+BK21082,창업 첫걸음,박정우,김영사,2023,3.8,N,58
+BK21083,Travel Made Simple,Olivia Davis,Faber & Faber,2023,4.9,N,12
+BK21084,그림으로 배우는 컴퓨터 비전,강우진,길벗,2020,4.0,Y,46
+BK21085,와인을 위한 작은 습관,윤세아,문학동네,2019,3.7,Y,33
+BK21086,명상 이야기,안예은,문학동네,2011,4.6,Y,76
+BK21087,정원사의 작은 습관,노태양,문학동네,2010,3.9,Y,21
+BK21088,요가를 위한 작은 습관,홍세아,다산북스,2023,4.6,Y,22
+BK21089,다이어트의 즐거움,심유진,창비,2013,3.4,Y,31
+BK21090,인공지능과 미래,홍건우,이지스퍼블리싱,2011,4.0,Y,65
+BK21091,Leadership for Beginners,Peter Moore,Faber & Faber,2016,3.0,N,74
+BK21092,python Algorithms 노트,허건우,창비,2010,4.1,Y,38
+BK21093,명상 입문,문은우,다산북스,2017,4.1,Y,31
+BK21094,빅데이터 첫걸음,서하은,길벗,2015,4.0,Y,19
+BK21095,운동 입문,서서연,열린책들,2022,3.4,Y,4
+BK21096,자기계발의 기술,오건우,다산북스,2020,3.4,N,80
+BK21097,Hands-On Leadership,Andrew Wilson,Bloomsbury,2012,4.7,Y,7
+BK21098,Python Robotics Cookbook,Sophia Clark,Manning,2011,3.1,N,15
+BK21099,시간 관리가 삶을 바꾼다,심지아,웅진지식하우스,2022,3.8,Y,45
+BK21100,Python과 게임 프로그래밍,류태양,에이콘출판,2019,3.9,Y,42
+BK21101,텍스트 마이닝을 위한 Python,안재원,위키북스,2023,3.7,N,20
+BK21102,자료구조 100문 100답,심나연,한빛미디어,2020,4.0,Y,122
+BK21103,알고리즘 핵심 정리,권정우,에이콘출판,2010,3.4,N,40
+BK21104,알고리즘 스터디 가이드,오동현,위키북스,2011,4.3,N,16
+BK21105,Game Development Fundamentals,David Adams,O'Reilly,2016,3.3,Y,20
+BK21106,지구과학 로드맵,이동현,김영사,2019,4.2,Y,71
+BK21107,의학 로드맵,강예은,웅진지식하우스,2020,4.4,Y,94
+BK21108,"마흔, 그 후",강지아,김영사,2024,4.0,Y,21
+BK21109,지구과학 사례 연구,백지민,김영사,2023,3.8,Y,25
+BK21110,다이어트 핸드북,홍지우,민음사,2017,3.0,Y,121
+BK21111,Essential Machine Learning,Sarah Brown,Packt,2023,4.5,N,32
+BK21112,Essential Blockchain,Hannah Allen,O'Reilly,2023,3.5,Y,43
+BK21113,마흔에게 보내는 편지,민민준,은행나무,2024,3.3,Y,18
+BK21114,운동의 모든 것,배현우,열린책들,2018,2.4,Y,27
+BK21115,마흔과 걷는 길,서지우,열린책들,2019,4.0,Y,24
+BK21116,실전 중국어,성현우,민음사,2022,3.7,N,7
+BK21117,쉽게 배우는 물리학,임동현,민음사,2024,4.4,Y,32
+BK21118,오늘부터 수면,심승현,은행나무,2021,4.3,Y,97
+BK21119,The Cooking Companion,Sarah Clark,Bloomsbury,2020,3.9,Y,44
+BK21120,영화 비평 문제 해결 노트,김도현,창비,2011,4.2,Y,9
+BK21121,The Joy of Health,Kevin Wright,Faber & Faber,2018,3.6,N,16
+BK21122,Time Series Fundamentals,Michael Brown,O'Reilly,2020,3.5,N,60
+BK21123,Leadership Cookbook,Sophia Wright,Penguin,2018,4.2,Y,67
+BK21124,The Photography Companion,David Wilson,Vintage,2015,4.5,Y,104
+BK21125,Practical Artificial Intelligence,Laura Baker,Springer,2010,3.3,N,11
+BK21126,Essential Software Engineering,Sophia Johnson,Packt,2023,3.9,Y,52
+BK21127,은퇴자가 사랑한 문장들,고서연,다산북스,2013,3.8,Y,30
+BK21128,산책자의 하루,송다은,웅진지식하우스,2012,3.5,Y,11
+BK21129,늦깎이 학생과 걷는 길,류정우,은행나무,2022,4.4,Y,66
+BK21130,주식 트렌드 2024,홍예린,창비,2022,3.3,Y,41
+BK21131,회계 30일 완성,노예은,다산북스,2020,3.4,Y,42
+BK21132,부동산 입문,노서준,다산북스,2016,3.5,Y,53
+BK21133,한 권으로 끝내는 스페인어,곽연우,창비,2016,3.9,N,11
+BK21134,Applied Deep Learning,Andrew Walker,O'Reilly,2018,3.9,Y,43
+BK21135,Learning Data Visualization,Laura King,Manning,2011,4.7,Y,37
+BK21136,간호학 사례 연구,정시윤,열린책들,2024,5.0,Y,67
+BK21137,식단의 즐거움,홍서준,창비,2010,3.5,Y,113
+BK21138,실전 파이썬 자연어 처리,한시우,이지스퍼블리싱,2020,4.0,N,50
+BK21139,Reinforcement Learning Crash Course,Emily Wright,O'Reilly,2021,3.7,Y,47
+BK21140,Negotiation from Scratch,Grace Young,Penguin,2023,3.1,Y,12
+BK21141,와인 첫걸음,심지호,웅진지식하우스,2022,4.1,N,41
+BK21142,The Deep Learning Handbook,Andrew Allen,Manning,2023,4.0,Y,69
+BK21143,알고리즘 로드맵,장가은,인사이트,2021,4.4,Y,60
+BK21144,요리가 삶을 바꾼다,노서준,웅진지식하우스,2019,3.6,N,69
+BK21145,파이선 프로그래밍 이해하기,심정우,한빛미디어,2020,3.9,Y,56
+BK21146,"도시인, 그 후",강정우,열린책들,2020,4.7,N,147
+BK21147,인공지능 스터디 가이드,안준서,영진닷컴,2021,3.9,Y,41
+BK21148,지구과학 30일 완성,서서준,김영사,2010,4.0,Y,54
+BK21149,습관 완벽 가이드,임서연,김영사,2023,4.1,Y,60
+BK21150,Thinking in Reinforcement Learning,Grace Walker,Apress,2016,4.1,Y,32
+BK21151,인공지능 실무 노트,박하린,위키북스,2020,3.6,Y,141
+BK21152,부동산 바이블,황승현,은행나무,2020,4.0,Y,56
+BK21153,투자 실무 노트,최재원,다산북스,2011,3.6,Y,29
+BK21154,Python for Statistics,Andrew Hall,Wiley,2022,3.2,Y,21
+BK21155,선형대수 다시 읽기,최시윤,영진닷컴,2016,4.0,N,33
+BK21156,네트워크 트렌드 2024,노시윤,제이펍,2023,4.0,Y,49
+BK21157,영어 회화 다시 읽기,구예린,문학동네,2023,3.8,Y,69
+BK21158,건축 완벽 가이드,유세아,은행나무,2022,3.9,Y,25
+BK21159,Python Security Cookbook,Emma Wright,O'Reilly,2016,3.3,Y,7
+BK21160,나의 캠핑 일기,박지우,열린책들,2015,3.6,Y,35
+BK21161,Python Automation Cookbook,Sophia Wilson,Springer,2016,4.7,N,9
+BK21162,시간 관리 인사이트,한은우,열린책들,2019,4.1,N,33
+BK21163,처음 배우는 주식,주지민,은행나무,2018,3.9,Y,19
+BK21164,간호학 바이블,유다은,문학동네,2023,3.8,Y,22
+BK21165,Introduction to Photography,Anna Moore,Faber & Faber,2012,4.6,Y,38
+BK21166,직장인을 위한 철학,박가은,김영사,2014,4.3,Y,39
+BK21167,건축을 위한 워크북,민민준,민음사,2010,3.1,Y,52
+BK21168,Everyday Photography,Olivia Wright,Bloomsbury,2014,3.7,Y,77
+BK21169,The Silent Harbor,Laura Young,Bloomsbury,2013,4.0,N,93
+BK21170,직장인을 위한 추천 시스템,서세아,이지스퍼블리싱,2021,4.6,N,7
+BK21171,Python 데이터베이스 연동 완벽 가이드,조소율,위키북스,2016,3.9,N,36
+BK21172,Databases from Scratch,Mark Johnson,Springer,2015,4.5,Y,5
+BK21173,노을에게 보내는 편지,이현우,열린책들,2016,3.2,Y,34
+BK21174,Python과 금융 분석,진지호,인사이트,2017,3.4,Y,12
+BK21175,스페인어 바이블,류나연,창비,2016,3.3,Y,44
+BK21176,쉽게 배우는 SQL,이재원,에이콘출판,2011,3.8,Y,63
+BK21177,등산의 즐거움,민예은,웅진지식하우스,2023,4.7,Y,31
+BK21178,Economics Cookbook,James Johnson,HarperCollins,2020,5.0,Y,34
+BK21179,Applied DevOps,Julia Davis,Springer,2013,4.2,Y,8
+BK21180,Health for Beginners,Mark Adams,Faber & Faber,2021,4.4,Y,39
+BK21181,그림으로 배우는 수면,하도현,열린책들,2021,4.5,Y,33
+BK21182,Data Structures: A Practical Guide,David Adams,Wiley,2011,4.0,Y,7
+BK21183,The Long Meadow,Kevin Taylor,Faber & Faber,2020,4.8,N,46
+BK21184,선형대수를 위한 워크북,하세아,영진닷컴,2012,4.5,N,11
+BK21185,Web Development: A Practical Guide,Michael Miller,O'Reilly,2017,4.4,Y,16
+BK21186,음악 이론 완벽 가이드,우도현,은행나무,2016,4.0,N,53
+BK21187,누구나 할 수 있는 명상,남지아,창비,2019,4.3,N,28
+BK21188,Psychology in Practice,Andrew Clark,Bloomsbury,2019,4.5,N,45
+BK21189,Advanced Finance,James Allen,Faber & Faber,2021,4.1,Y,46
+BK21190,마케팅 마스터,류연우,다산북스,2011,3.6,Y,60
+BK21191,하루 10분 요가,전지훈,민음사,2015,2.5,N,96
+BK21192,영화 비평과 미래,노세아,웅진지식하우스,2015,3.2,N,83
+BK21193,경영 전략 교과서,안민준,김영사,2020,4.0,Y,53
+BK21194,하루 10분 습관,진민준,창비,2020,4.7,Y,35
+BK21195,The Art of Cooking,David Brown,Penguin,2018,2.9,Y,23
+BK21196,바다에게 보내는 편지,오시우,열린책들,2015,2.9,Y,26
+BK21197,자기계발을 위한 작은 습관,최다은,은행나무,2022,4.1,N,30
+BK21198,Product Management for Beginners,Sarah Miller,HarperCollins,2014,3.8,Y,88
+BK21199,Machine Learning Cookbook,Michael Davis,Packt,2016,4.0,Y,95
+BK21200,확률론 바이블,손세아,길벗,2010,3.2,Y,32
+BK21201,Deep Learning in Practice,Sarah Baker,Packt,2011,2.9,N,37
+BK21202,세계사와 미래,성유진,열린책들,2013,3.7,Y,63
+BK21203,Introduction to Chemistry,Robert Clark,Vintage,2023,3.7,Y,22
+BK21204,간호학 핸드북,이소율,문학동네,2011,4.4,Y,19
+BK21205,베이킹의 기술,홍민준,창비,2012,3.5,Y,79
+BK21206,의학을 위한 워크북,장준서,다산북스,2014,4.3,N,31
+BK21207,Introduction to Ethics,Daniel Young,Faber & Faber,2022,3.2,Y,54
+BK21208,그림으로 배우는 머신러닝,박승현,길벗,2020,4.2,Y,18
+BK21209,DevOps in Practice,Peter Anderson,Wiley,2015,3.4,Y,17
+BK21210,Introduction to Psychology,Daniel Wilson,Faber & Faber,2018,3.6,N,1
+BK21211,Mathematics from Scratch,Emily Smith,HarperCollins,2011,4.4,Y,26
+BK21212,글쓰기 실무 노트,전유진,김영사,2010,3.4,N,16
+BK21213,Big Data Cookbook,Sarah Hall,Springer,2010,3.4,Y,11
+BK21214,UX Research: A Practical Guide,Emily Young,Vintage,2020,4.1,Y,34
+BK21215,서른의 하루,우은우,은행나무,2020,3.7,Y,18
+BK21216,python으로 하는 이미지 처리,하도현,열린책들,2020,3.6,N,60
+BK21217,건강 완벽 가이드,한서준,민음사,2017,3.9,Y,9
+BK21218,Real-World Economics,Sophia Baker,Bloomsbury,2010,4.3,N,33
+BK21219,Product Management: A Practical Guide,Kevin Smith,Vintage,2024,3.7,Y,15
+BK21220,화가의 사계절,황은우,창비,2023,3.7,Y,73
+BK21221,Marketing Explained,Hannah Green,Faber & Faber,2013,3.7,Y,117
+BK21222,캠핑의 기술,심연우,민음사,2019,4.1,Y,19
+BK21223,물리학 완벽 가이드,장다은,창비,2011,3.1,N,88
+BK21224,생각하는 음악 이론,김예린,민음사,2015,3.4,N,19
+BK21225,의학 사례 연구,서하린,열린책들,2015,4.1,N,50
+BK21226,모두의 Python 네트워크 프로그래밍,고현우,인사이트,2018,4.3,N,44
+BK21227,Mastering Economics,Emma Hall,Faber & Faber,2020,4.1,Y,73
+BK21228,Modern DevOps,Mark Walker,Manning,2020,4.5,Y,67
+BK21229,자연어 처리 스터디 가이드,권다은,위키북스,2016,3.8,Y,74
+BK21230,Python으로 배우는 객체지향 프로그래밍,윤가은,제이펍,2016,3.5,N,61
+BK21231,하루 10분 요리,홍유진,은행나무,2019,3.8,Y,65
+BK21232,Python Finance Workbook,Emma Clark,Apress,2018,4.1,Y,85
+BK21233,Big Data Explained,Robert Moore,Wiley,2017,4.0,N,11
+BK21234,Writing for Everyone,Mark Green,Vintage,2015,3.7,Y,55
+BK21235,자바로 배우는 데이터 분석,정동현,인사이트,2020,4.0,N,40
+BK21236,건축 교과서,전성민,창비,2016,3.7,Y,17
+BK21237,도시인의 작은 습관,박태양,다산북스,2023,4.0,Y,52
+BK21238,클라우드 컴퓨팅 교과서,우성민,위키북스,2010,3.2,Y,27
+BK21239,여행의 즐거움,오준서,김영사,2024,3.7,Y,16
+BK21240,Essential Data Structures,Emily Davis,O'Reilly,2018,3.4,N,48
+BK21241,Data Analysis in Python,Mark Walker,Wiley,2017,4.3,Y,89
+BK21242,육아의 기술,강시우,열린책들,2023,3.7,N,25
+BK21243,중국어 100문 100답,성도현,김영사,2021,4.1,Y,50
+BK21244,여행 이야기,고현우,열린책들,2022,3.0,Y,130
+BK21245,육아 첫걸음,남연우,다산북스,2014,4.1,N,24
+BK21246,The Biology Handbook,Daniel Young,Vintage,2012,3.6,Y,55
+BK21247,Learning Game Development,Sophia Hall,Packt,2019,4.9,Y,82
+BK21248,PyTorch 없이 배우는 신경망 원리,안예은,인사이트,2023,3.5,N,12
+BK21249,오늘부터 습관,유동현,열린책들,2022,4.0,Y,46
+BK21250,스페인어 핸드북,윤현우,열린책들,2015,4.6,N,96
+BK21251,머신러닝 특강,백우진,이지스퍼블리싱,2024,4.4,Y,29
+BK21252,Effective Python Data Analysis,Emma Wright,Springer,2016,3.9,Y,52
+BK21253,쉽게 배우는 수학,허태양,웅진지식하우스,2015,3.4,Y,12
+BK21254,Data Structures for Beginners,Grace Young,Packt,2015,3.8,N,23
+BK21255,Essential Psychology,Robert Allen,Vintage,2019,3.4,N,19
+BK21256,Real-World Startups,Robert Anderson,Bloomsbury,2016,4.5,Y,29
+BK21257,글쓰기 교과서,전수아,김영사,2023,3.7,Y,36
+BK21258,Python Natural Language Processing Cookbook,Emma Brown,Apress,2012,4.2,Y,22
+BK21259,영화 비평 완벽 가이드,정다은,창비,2024,3.9,Y,56
+BK21260,요가의 즐거움,백세아,민음사,2021,4.9,Y,33
+BK21261,실전 Python 데이터베이스 연동,문우진,이지스퍼블리싱,2014,3.4,Y,28
+BK21262,확률론 완벽 가이드,장수빈,이지스퍼블리싱,2010,4.5,Y,2
+BK21263,도시인의 사계절,백시우,다산북스,2013,3.9,Y,42
+BK21264,웹 크롤링을 위한 Python,전동현,길벗,2014,4.7,N,151
+BK21265,그림으로 배우는 인공지능,문서연,영진닷컴,2014,3.9,N,139
+BK21266,Psychology for Beginners,Emily King,Vintage,2012,3.5,Y,26
+BK21267,Essential Negotiation,Julia Young,Vintage,2023,3.3,Y,70
+BK21268,세계사 트렌드 2024,주서준,열린책들,2011,3.6,Y,54
+BK21269,일본어 특강,백동현,열린책들,2021,4.5,Y,59
+BK21270,지구과학 특강,황지우,웅진지식하우스,2018,4.1,Y,9
+BK21271,영어 회화 100문 100답,허도현,문학동네,2011,3.2,Y,27
+BK21272,Thinking in Big Data,Daniel Johnson,Wiley,2024,4.7,Y,30
+BK21273,Data Science Patterns,Julia Moore,Wiley,2013,4.3,N,37
+BK21274,Hands-On Machine Learning,David Allen,Packt,2013,3.5,N,52
+BK21275,직장인을 위한 강화학습,안준서,인사이트,2021,4.2,Y,27
+BK21276,Marketing Patterns,Emma Allen,Vintage,2020,2.6,Y,86
+BK21277,Hands-On Linear Algebra,Hannah Brown,Springer,2012,3.8,Y,127
+BK21278,추천 시스템 트렌드 2024,강수아,위키북스,2017,4.0,Y,86
+BK21279,강화학습 기초와 응용,유도현,인사이트,2012,3.7,Y,60
+BK21280,천문학을 위한 워크북,전성민,김영사,2024,4.2,Y,30
+BK21281,재무 관리 핸드북,최예린,웅진지식하우스,2024,4.7,Y,46
+BK21282,앱 개발 스터디 가이드,차지아,인사이트,2015,4.0,Y,22
+BK21283,Leadership Step by Step,Julia Green,Faber & Faber,2017,4.3,Y,15
+BK21284,클라우드 컴퓨팅의 정석,양은우,한빛미디어,2010,4.9,N,67
+BK21285,데이터베이스 핵심 정리,강승현,인사이트,2023,3.9,Y,21
+BK21286,다이어트 이야기,구세아,은행나무,2012,3.9,Y,82
+BK21287,생물학 첫걸음,김태양,문학동네,2011,3.8,Y,31
+BK21288,"화가, 그 후",심은우,김영사,2022,3.6,Y,50
+BK21289,Travel for Everyone,Julia Miller,HarperCollins,2018,3.8,N,84
+BK21290,Scientific Computing with Python,Thomas King,O'Reilly,2014,4.3,Y,28
+BK21291,그림으로 배우는 빅데이터,신승현,영진닷컴,2019,3.7,Y,90
+BK21292,Python 데이터베이스 연동,권가은,인사이트,2015,4.7,N,19
+BK21293,Reinforcement Learning Cookbook,Peter Allen,Wiley,2016,4.2,Y,78
+BK21294,Effective Python Deep Learning,Peter Wright,Manning,2016,3.8,N,18
+BK21295,Finance for Beginners,James Brown,Penguin,2010,3.1,Y,42
+BK21296,글쓰기 30일 완성,한가은,웅진지식하우스,2021,4.8,Y,52
+BK21297,Product Management from Scratch,Hannah Wright,HarperCollins,2017,3.8,Y,53
+BK21298,수학 완벽 가이드,구유진,김영사,2011,3.6,Y,50
+BK21299,한국사 사례 연구,장유진,열린책들,2013,3.6,Y,27
+BK21300,Security with Python,Grace Walker,Packt,2014,3.8,N,8
+BK21301,"은퇴자, 그 후",조수아,열린책들,2024,4.0,Y,39
+BK21302,알고리즘 첫걸음,임성민,이지스퍼블리싱,2024,4.2,Y,78
+BK21303,추천 시스템 핸드북,남채원,영진닷컴,2022,4.2,Y,68
+BK21304,엄마가 말하는 행복,정지민,다산북스,2018,3.6,N,35
+BK21305,주식 스터디 가이드,이태양,은행나무,2017,4.1,Y,6
+BK21306,경제학 핵심 정리,남은우,창비,2021,3.9,Y,60
+BK21307,혼자 공부하는 Python 이미지 처리,장세아,인사이트,2020,3.5,Y,43
+BK21308,쉽게 배우는 데이터베이스,한유진,영진닷컴,2019,3.9,N,16
+BK21309,python으로 하는 Deep Learning,류연우,다산북스,2020,3.7,Y,50
+BK21310,Marketing in Practice,Robert Walker,Faber & Faber,2017,4.7,N,61
+BK21311,음악 이론 100문 100답,안민준,다산북스,2018,4.5,Y,4
+BK21312,Hands-On Mathematics,Kevin Adams,Faber & Faber,2023,4.6,Y,40
+BK21313,The Reinforcement Learning Handbook,Robert Brown,Manning,2024,4.0,Y,69
+BK21314,자기계발의 모든 것,하정우,열린책들,2018,4.2,Y,52
+BK21315,Biology for Beginners,Olivia Taylor,Faber & Faber,2024,3.8,Y,67
+BK21316,확률론 사례 연구,심하은,한빛미디어,2014,3.9,Y,65
+BK21317,네트워크 특강,서가은,길벗,2024,3.8,Y,15
+BK21318,생각하는 추천 시스템,노지우,제이펍,2016,4.2,Y,92
+BK21319,쉽게 배우는 철학,우다은,다산북스,2016,4.0,N,15
+BK21320,Physics Crash Course,Emma Miller,Penguin,2022,3.9,Y,7
+BK21321,실전 Python 코딩 테스트,류재원,영진닷컴,2012,4.3,Y,13
+BK21322,중국어를 위한 워크북,안성민,민음사,2011,4.1,Y,57
+BK21323,통계학 교과서,홍은우,제이펍,2012,4.9,N,66
+BK21324,Automation in Python,Mark Clark,Manning,2023,3.9,Y,36
+BK21325,Python 네트워크 프로그래밍 완벽 가이드,류태양,제이펍,2011,4.3,Y,31
+BK21326,Learning Python APIs,Michael Hall,Packt,2021,4.5,Y,20
+BK21327,투자 로드맵,백지민,열린책들,2024,4.0,Y,58
+BK21328,명상의 즐거움,안소율,은행나무,2022,3.8,Y,6
+BK21329,베이킹 첫걸음,황우진,문학동네,2023,3.9,N,73
+BK21330,물리학 핸드북,심예은,다산북스,2014,4.8,N,39
+BK21331,Learning Startups,Peter Walker,HarperCollins,2022,4.9,Y,60
+BK21332,클라우드 컴퓨팅 입문,구준서,위키북스,2016,4.4,Y,13
+BK21333,지구과학 트렌드 2024,송하은,은행나무,2012,3.0,Y,35
+BK21334,Data Engineering in Python,Robert Baker,Packt,2020,4.6,Y,69
+BK21335,추천 시스템 교과서,성서준,이지스퍼블리싱,2020,3.6,Y,17
+BK21336,책방 주인과 걷는 길,한지민,다산북스,2019,3.0,N,30
+BK21337,종이배를 띄우다,양채원,웅진지식하우스,2021,3.6,N,18
+BK21338,처음 배우는 시계열 분석,강민준,제이펍,2022,4.2,Y,39
+BK21339,Essential Deep Learning,Kevin Davis,Apress,2015,3.6,Y,55
+BK21340,Data Science Explained,Olivia Allen,Apress,2017,3.9,Y,10
+BK21341,푸른 강의 노래,곽서준,김영사,2015,4.2,Y,60
+BK21342,수면을 위한 작은 습관,유재원,웅진지식하우스,2018,3.8,Y,102
+BK21343,Chemistry: A Practical Guide,James Davis,Vintage,2016,4.1,Y,57
+BK21344,Mastering Time Series,Grace Anderson,O'Reilly,2017,3.7,N,64
+BK21345,반려동물 입문,최승현,다산북스,2022,4.0,Y,65
+BK21346,빅데이터와 미래,류예은,길벗,2023,3.9,N,41
+BK21347,실전 자연어 처리,유태양,제이펍,2014,3.9,Y,47
+BK21348,Advanced Blockchain,Thomas Miller,Springer,2011,3.5,Y,34
+BK21349,그림으로 배우는 육아,허예은,민음사,2012,2.8,Y,62
+BK21350,"요리사, 그 후",차연우,웅진지식하우스,2024,3.9,Y,40
+BK21351,웹 개발 기초와 응용,유재원,이지스퍼블리싱,2011,4.2,Y,82
+BK21352,실전 웹 개발,임수아,에이콘출판,2013,3.4,Y,61
+BK21353,확률론 특강,한건우,길벗,2015,4.6,Y,73
+BK21354,자료구조 사례 연구,진시우,영진닷컴,2015,3.9,Y,11
+BK21355,의학 스터디 가이드,이성민,웅진지식하우스,2014,3.2,Y,107
+BK21356,강화학습 문제 해결 노트,김하린,길벗,2022,3.6,N,78
+BK21357,처음 배우는 약학,조태양,문학동네,2015,4.5,Y,5
+BK21358,빅데이터 30일 완성,민동현,영진닷컴,2020,3.7,Y,35
+BK21359,Time Series: A Practical Guide,Andrew Smith,O'Reilly,2018,4.1,Y,35
+BK21360,정원 가꾸기가 삶을 바꾼다,구태양,김영사,2023,5.0,Y,65
+BK21361,Writing Explained,Julia Baker,Faber & Faber,2013,4.7,Y,115
+BK21362,Thinking in Mobile Apps,Anna Brown,Packt,2023,4.4,Y,23
+BK21363,데이터 분석 특강,양수빈,길벗,2010,3.0,Y,77
+BK21364,의학의 정석,백동현,문학동네,2018,3.4,N,17
+BK21365,Applied Linear Algebra,Mark Wilson,Wiley,2023,3.2,N,25
+BK21366,혼자 공부하는 Python 통계,이정우,영진닷컴,2013,4.6,Y,5
+BK21367,세계사 사례 연구,황은우,다산북스,2015,4.1,Y,36
+BK21368,사라진 목요일,우시윤,민음사,2021,4.1,Y,42
+BK21369,역사 스터디 가이드,서정우,웅진지식하우스,2016,5.0,N,70
+BK21370,Everyday Travel,Emma Scott,Bloomsbury,2012,3.7,Y,60
+BK21371,Computer Vision Crash Course,Laura Davis,Manning,2010,3.8,Y,68
+BK21372,시골 의사의 사계절,백하은,열린책들,2013,2.9,N,26
+BK21373,Introduction to Music,Michael Walker,Faber & Faber,2012,4.1,Y,37
+BK21374,Introduction to Travel,Olivia Davis,Faber & Faber,2015,3.5,Y,81
+BK21375,Notes on Travel,Anna Walker,Bloomsbury,2011,4.4,Y,32
+BK21376,Applied Statistics,James Allen,Springer,2024,3.7,N,41
+BK21377,창업 100문 100답,오도현,김영사,2010,3.3,Y,60
+BK21378,알고리즘 사례 연구,한승현,영진닷컴,2017,3.3,Y,79
+BK21379,처음 시작하는 커피,성예은,김영사,2016,4.4,Y,56
+BK21380,실전 자료구조,민지민,이지스퍼블리싱,2012,3.4,Y,19
+BK21381,Modern UX Research,Mark Walker,Penguin,2015,3.7,Y,84
+BK21382,Software Engineering Patterns,David Hall,Manning,2013,4.0,Y,64
+BK21383,Python 이미지 처리,서성민,이지스퍼블리싱,2010,4.6,Y,52
+BK21384,마흔의 작은 습관,윤태양,민음사,2022,4.0,Y,52
+BK21385,한 권으로 끝내는 건축,장수빈,은행나무,2024,3.7,Y,60
+BK21386,데이터 분석 로드맵,양태양,길벗,2020,4.7,Y,51
+BK21387,창업 30일 완성,고재원,은행나무,2015,4.0,N,31
+BK21388,Statistics Explained,Mark Davis,Manning,2018,3.9,Y,49
+BK21389,Data Visualization for Beginners,Peter Moore,Manning,2012,4.3,Y,75
+BK21390,Startups Explained,Emily Allen,Bloomsbury,2014,3.8,Y,35
+BK21391,물리학 트렌드 2024,문서준,은행나무,2022,3.6,Y,82
+BK21392,스페인어 스터디 가이드,한도현,민음사,2012,4.4,Y,34
+BK21393,처음 시작하는 식단,류시우,창비,2021,4.3,Y,48
+BK21394,부동산을 위한 워크북,강예은,민음사,2014,4.0,Y,53
+BK21395,Mastering Natural Language Processing,Andrew Wilson,Apress,2022,3.7,Y,39
+BK21396,Cybersecurity Cookbook,James Anderson,Manning,2015,4.7,Y,38
+BK21397,글쓰기의 정석,우수아,창비,2024,4.1,N,34
+BK21398,음악 이론 스터디 가이드,구하린,창비,2014,4.1,Y,41
+BK21399,Thinking in Data Structures,Daniel Green,Apress,2015,4.4,Y,19
+BK21400,실전 부동산,차도현,민음사,2021,4.6,Y,60
+BK21401,Travel for Beginners,David Green,Faber & Faber,2023,4.4,Y,52
+BK21402,정원 가꾸기 입문,손민준,열린책들,2022,3.9,Y,30
+BK21403,쉽게 배우는 웹 개발,손서연,제이펍,2021,4.7,Y,52
+BK21404,생각하는 SQL,조성민,한빛미디어,2016,5.0,Y,44
+BK21405,Linear Algebra from Scratch,Hannah Adams,Apress,2019,3.9,Y,40
+BK21406,화가와 걷는 길,조은우,은행나무,2015,3.7,N,24
+BK21407,SQL 문제 해결 노트,조동현,이지스퍼블리싱,2016,3.6,Y,34
+BK21408,역사 바이블,정예린,문학동네,2019,4.1,Y,56
+BK21409,The Art of Design,Mark Walker,HarperCollins,2013,4.1,Y,28
+BK21410,강화학습 다시 읽기,송지호,영진닷컴,2012,4.0,N,12
+BK21411,투자 첫걸음,정성민,은행나무,2020,3.7,N,76
+BK21412,건축 마스터,서동현,은행나무,2012,3.0,Y,50
+BK21413,"늦깎이 학생, 그 후",손시윤,민음사,2014,3.9,Y,57
+BK21414,그림으로 배우는 심리학,서재원,열린책들,2022,5.0,N,54
+BK21415,Health for Everyone,James Green,Bloomsbury,2021,4.8,Y,21
+BK21416,Philosophy Explained,Robert Wilson,Penguin,2021,2.9,Y,57
+BK21417,The Writing Companion,Robert Wilson,Vintage,2018,4.4,Y,42
+BK21418,Real-World Blockchain,Sophia Scott,Springer,2013,4.0,Y,41
+BK21419,Natural Language Processing Cookbook,David Baker,Packt,2018,4.4,Y,78
+BK21420,철학 실무 노트,장준서,은행나무,2019,4.2,N,21
+BK21421,클라우드 컴퓨팅 문제 해결 노트,주민준,한빛미디어,2024,4.3,Y,26
+BK21422,처음 시작하는 등산,전시우,열린책들,2022,3.5,Y,46
+BK21423,늦깎이 학생에게 보내는 편지,남채원,다산북스,2020,3.6,Y,38
+BK21424,머신러닝 입문,구다은,제이펍,2010,4.2,Y,17
+BK21425,건강이 삶을 바꾼다,장가은,김영사,2022,4.8,Y,59
+BK21426,Startups Crash Course,Grace Wright,Faber & Faber,2013,4.4,N,6
+BK21427,클라우드 컴퓨팅 실무 노트,임민준,길벗,2013,3.9,Y,47
+BK21428,명상 핸드북,허지아,문학동네,2023,3.2,Y,53
+BK21429,마흔이 사랑한 문장들,민은우,열린책들,2011,3.9,Y,92
+BK21430,마흔의 하루,차소율,민음사,2016,4.0,Y,47
+BK21431,Letters from Nowhere,James Brown,Faber & Faber,2020,4.4,N,71
+BK21432,시간 관리 입문,곽지훈,열린책들,2016,3.6,Y,20
+BK21433,운동 핸드북,김동현,다산북스,2020,4.8,Y,51
+BK21434,새벽의 약속,심동현,웅진지식하우스,2024,5.0,Y,57
+BK21435,명상의 기술,차서연,창비,2011,4.2,N,58
+BK21436,실전 심리학,조연우,창비,2024,4.1,N,10
+BK21437,The Joy of Philosophy,Grace Baker,Vintage,2012,3.5,N,42
+BK21438,지구과학의 정석,전가은,문학동네,2021,4.0,Y,37
+BK21439,어느 회사원에게 보내는 편지,구수아,문학동네,2017,3.8,Y,50
+BK21440,Cooking for Beginners,Thomas Clark,Faber & Faber,2014,4.9,Y,66
+BK21441,Real-World Linear Algebra,Andrew Hall,Apress,2022,3.4,N,41
+BK21442,데이터베이스 실무 노트,고세아,제이펍,2015,3.4,Y,7
+BK21443,직장인을 위한 인공지능,양민준,인사이트,2016,4.1,Y,28
+BK21444,Blue Hour,Julia Adams,Penguin,2010,3.5,Y,4
+BK21445,투자와 미래,문수빈,다산북스,2013,4.3,Y,67
+BK21446,생각하는 미술사,하시우,창비,2022,4.6,Y,43
+BK21447,Databases Fundamentals,Kevin Adams,Manning,2017,3.6,Y,33
+BK21448,그림으로 배우는 마케팅,임채원,은행나무,2016,4.9,Y,28
+BK21449,A Short History of Photography,Robert Moore,Bloomsbury,2013,3.6,Y,7
+BK21450,Startups in Practice,Sarah Davis,Vintage,2022,3.7,N,25
+BK21451,데이터베이스 핸드북,구세아,한빛미디어,2020,4.0,N,40
+BK21452,통계학 완벽 가이드,송세아,길벗,2022,3.7,Y,15
+BK21453,데이터 분석 핸드북,구하린,영진닷컴,2020,3.1,N,91
+BK21454,요리사에게 보내는 편지,차나연,은행나무,2024,4.8,Y,84
+BK21455,Chemistry Fundamentals,Thomas Green,Faber & Faber,2019,4.2,N,17
+BK21456,Blockchain Fundamentals,Anna Wright,Packt,2018,3.7,N,20
+BK21457,물리학 실무 노트,정수빈,은행나무,2024,4.2,N,20
+BK21458,처음 배우는 건축,성채원,열린책들,2011,3.7,Y,102
+BK21459,도시인의 하루,문소율,김영사,2020,3.1,N,24
+BK21460,Negotiation Step by Step,Mark Wilson,HarperCollins,2013,3.7,N,52
+BK21461,직장인을 위한 간호학,유수빈,민음사,2014,4.3,Y,10
+BK21462,확률론 핵심 정리,성동현,제이펍,2021,3.5,N,56
+BK21463,머신러닝 with Python,전수빈,인사이트,2019,3.8,Y,32
+BK21464,Hands-On Economics,Hannah Hall,Faber & Faber,2021,3.1,Y,16
+BK21465,실전 약학,진나연,민음사,2013,3.9,Y,90
+BK21466,누구나 할 수 있는 등산,구현우,민음사,2016,4.9,N,7
+BK21467,주식과 미래,백채원,다산북스,2023,4.4,Y,49
+BK21468,미술사 다시 읽기,정수빈,창비,2010,4.0,N,33
+BK21469,지구과학 스터디 가이드,강태양,웅진지식하우스,2010,4.9,Y,14
+BK21470,간호학 트렌드 2024,송태양,웅진지식하우스,2015,3.2,Y,33
+BK21471,Everyday Health,Emily Adams,HarperCollins,2021,3.6,Y,31
+BK21472,생각하는 건축,노수빈,웅진지식하우스,2021,4.8,Y,38
+BK21473,실전 주식,허채원,문학동네,2017,4.6,Y,56
+BK21474,Leadership Patterns,Kevin Clark,Faber & Faber,2022,3.9,Y,47
+BK21475,쉽게 배우는 식단,송재원,문학동네,2014,3.9,Y,91
+BK21476,투자를 위한 워크북,유예린,민음사,2015,3.8,Y,54
+BK21477,여행자의 사계절,김건우,문학동네,2010,3.5,Y,23
+BK21478,Advanced Data Structures,Anna Smith,Springer,2011,4.5,Y,36
+BK21479,Project Management in Practice,Anna Clark,Bloomsbury,2024,2.8,Y,14
+BK21480,Photography Explained,Thomas Baker,Bloomsbury,2010,3.4,N,47
+BK21481,코딩 테스트를 위한 Python,권성민,한빛미디어,2016,3.3,N,38
+BK21482,SQL 핵심 정리,하성민,영진닷컴,2023,3.6,Y,61
+BK21483,노을의 작은 습관,허예은,열린책들,2010,4.5,Y,41
+BK21484,Mastering Mobile Apps,Emma Green,Packt,2022,4.9,Y,14
+BK21485,오늘부터 육아,한은우,다산북스,2011,5.0,Y,23
+BK21486,Mastering Computer Vision,David Allen,Packt,2020,5.0,N,55
+BK21487,Python 기반 게임 프로그래밍 실습,황하은,제이펍,2024,3.6,N,27
+BK21488,누구나 할 수 있는 요리,우시윤,민음사,2010,4.0,Y,21
+BK21489,Databases Crash Course,James Adams,O'Reilly,2023,3.9,Y,55
+BK21490,천문학 바이블,신재원,다산북스,2011,4.1,Y,3
+BK21491,요가가 삶을 바꾼다,박준서,김영사,2014,4.1,Y,38
+BK21492,시골 의사의 하루,류승현,웅진지식하우스,2023,4.7,Y,29
+BK21493,알고리즘 다시 읽기,홍준서,제이펍,2022,3.6,Y,50
+BK21494,실전 인공지능,남세아,길벗,2021,4.6,Y,40
+BK21495,Introduction to Reinforcement Learning,Olivia Anderson,Springer,2014,3.2,Y,34
+BK21496,베이킹을 위한 작은 습관,남재원,창비,2022,4.4,Y,19
+BK21497,직장인을 위한 선형대수,배유진,위키북스,2020,3.4,Y,8
+BK21498,여행 완벽 가이드,성건우,민음사,2018,3.7,N,17
+BK21499,머신러닝 다시 읽기,임하린,제이펍,2020,3.8,Y,55
+BK21500,Data Science Step by Step,Robert Allen,O'Reilly,2022,3.6,Y,29
